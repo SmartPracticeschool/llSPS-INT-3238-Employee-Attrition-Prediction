@@ -1,0 +1,79 @@
+<html>
+    <head>
+    <title> EMPLOYEE WELFARE API</title>
+        <style>
+            h1 {
+                text-align: center;
+                color:black;
+                padding-left:60px;
+            }
+            body {
+                background-color:lightsalmon;
+            }
+            .login{
+                text-align: center;
+                font-size: 20px;
+                padding-left: 550px;
+                color:darkred;
+                padding-top: 20px;
+            }
+            button{
+                background-color:red;
+                border: none;
+                color: white;
+                padding: 16px 25px;
+                text-align: center;
+                font-size: 16px;
+                margin: 4px 2px;
+                opacity: 1;
+                transition: 0.3s;
+                border-radius: 10px;
+            }
+            button:hover {opacity: 0.3}
+        </style>
+    </head>
+
+    <body>
+    <div class = "login">
+       <h1>EMPLOYEE ATTRITION PREDICTION</h1>
+       <form action="{{ url_for('y_predict')}}"method="post">
+        <label> EDUCATION :<br><br>
+        <input list ="education" name="education" />
+           <datalist id="education">
+              <option value="Bachelor">
+             <option value="college">
+             <option value="Below College">
+              <option value="Master">
+              <option value="doctor">
+        </datalist>
+        </label><br><br>
+                <label>JOB INVOLVEMENT:<br><br>
+<input list="jobinvolvement" name="jobinvolvement" />
+<datalist id="jobinvolvement">
+            <option value = "Very high">
+            <option value = "High">
+            <option value = "Medium">
+	    <option value = "Low">
+	    </label><br><br>
+         </datalist>
+         	<input type="text" name="JobLevel" placeholder="JobLevel" required="required" /><br><br>
+        <input type="text" name="DailyRate(USD)" placeholder="DailyRate(USD)" required="required" /><br><br>
+        <input type="text" name="MonthlyIncome(USD)" placeholder="MonthlyIncome(USD)" required="required" /><br><br>
+        <input type="text" name="NoofCompaniesWorked" placeholder="NoofCompaniesWorked" required="required" /><br><br>
+        <input type="text" name="TotalWorkingYears" placeholder="TotalWorkingYears" required="required" /><br><br>
+        <input type="text" name="YearsAtCompany" placeholder="YearsAtCompany" required="required" /><br><br>
+        <input type="text" name="YearsInCurrentRole" placeholder="YearsInCurrentRole" required="required" /><br><br>
+        <input type="text" name="YearsSinceLastPromotion" placeholder="YearsSinceLastPromotion" required="required" /><br><br>
+        <input type="text" name="YearsWithCurrentManager" placeholder="YearsWithCurrentManager" required="required" /><br><br>
+        <input type="text" name="TrainingTimesLastYear" placeholder="TrainingTimesLastYear" required="required" /><br><br>
+        <input type="text" name="PerformanceRating" placeholder="PerformanceRating" required="required" /><br><br>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    
+    </form>
+      <br>
+      <br>
+      {{ prediction_text }}
+   
+    </div>
+   </body>
+</html>

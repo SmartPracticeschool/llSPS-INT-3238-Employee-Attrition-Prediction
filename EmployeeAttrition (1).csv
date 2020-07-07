@@ -1,0 +1,1471 @@
+Education,JobInvolvement,JobLevel,DailyRate(USD),MonthlyIncome(USD),NoofCompaniesWorked,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrentManager,TrainingTimesLastYear,PerformanceRating,Attrition
+College,High,2,1102,5993,8,8,6,4,0,5,0,Excellent,Yes
+Below College,Medium,2,279,5130,1,10,10,7,1,7,3,Outstanding,No
+College,Medium,1,1373,2090,6,7,0,0,0,0,3,Excellent,Yes
+Master,High,1,1392,2909,1,8,8,7,3,0,3,Excellent,No
+Below College,High,1,591,3468,9,6,2,2,2,2,3,Excellent,No
+College,High,1,1005,3068,0,8,7,7,3,6,2,Excellent,No
+Bachelor,Very High,1,1324,2670,4,12,1,0,0,0,3,Outstanding,No
+Below College,High,1,1358,2693,1,1,1,0,0,0,2,Outstanding,No
+Bachelor,Medium,3,216,9526,0,10,9,7,1,8,2,Outstanding,No
+Bachelor,High,2,1299,5237,6,17,7,7,7,7,3,Excellent,No
+Bachelor,Very High,1,809,2426,0,6,5,4,0,3,5,Excellent,No
+College,Medium,2,153,4193,0,10,9,5,0,8,3,Excellent,No
+Below College,High,1,670,2911,1,5,5,2,4,3,1,Excellent,No
+College,High,1,1346,2661,0,3,2,2,1,2,2,Excellent,No
+Bachelor,Medium,1,103,2028,5,6,4,2,0,3,4,Excellent,Yes
+Master,Very High,3,1389,9980,1,10,10,9,8,8,1,Excellent,No
+College,Very High,1,334,3298,0,7,6,2,0,5,5,Excellent,No
+College,Very High,1,1123,2935,1,1,1,0,0,0,2,Excellent,No
+Master,Medium,4,1219,15427,2,31,25,8,3,7,3,Excellent,No
+Bachelor,High,1,371,3944,5,6,3,2,1,2,3,Excellent,No
+College,Very High,2,673,4011,0,5,4,2,1,3,5,Excellent,No
+Master,Medium,1,1218,3407,7,10,5,3,0,3,4,Outstanding,Yes
+Master,High,3,419,11994,0,13,12,6,2,11,4,Excellent,No
+College,High,1,391,1232,1,0,0,0,0,0,6,Excellent,No
+Below College,High,1,699,2960,2,8,4,2,1,3,2,Excellent,Yes
+Bachelor,High,5,1282,19094,4,26,14,13,4,8,3,Excellent,No
+Below College,Low,1,1125,3919,1,10,10,2,6,7,5,Outstanding,Yes
+Master,High,2,691,6825,0,10,9,7,4,2,2,Excellent,No
+Master,Medium,3,477,10248,3,24,22,6,5,17,4,Excellent,No
+Master,High,5,705,18947,3,22,2,2,2,1,2,Excellent,No
+Bachelor,High,1,924,2496,4,7,1,1,0,0,3,Excellent,No
+Master,High,2,1459,6465,2,9,4,2,1,3,5,Excellent,No
+College,Medium,1,125,2206,1,10,10,0,1,8,5,Excellent,No
+Bachelor,High,2,895,2086,3,19,1,0,0,0,6,Excellent,Yes
+Bachelor,High,1,813,2293,2,6,2,0,2,0,2,Excellent,Yes
+College,Very High,1,1273,2645,1,6,5,3,1,4,3,Excellent,No
+College,Medium,1,869,2683,1,3,3,2,0,2,2,Excellent,Yes
+Bachelor,High,1,890,2014,1,2,2,2,2,2,3,Excellent,No
+Master,Medium,1,852,3419,9,6,1,1,0,0,3,Excellent,No
+Bachelor,Very High,2,1141,5376,2,10,5,3,1,3,3,Excellent,No
+College,High,1,464,1951,1,1,1,0,0,0,3,Excellent,No
+Master,High,1,1240,2341,1,1,1,0,0,0,6,Excellent,No
+Bachelor,Low,1,1357,2293,1,1,1,0,0,1,2,Excellent,Yes
+Bachelor,High,3,994,8726,1,9,9,8,1,7,0,Excellent,No
+College,High,2,721,4011,1,12,12,8,3,7,2,Outstanding,No
+Bachelor,High,5,1360,19545,1,23,22,15,15,8,0,Excellent,Yes
+Master,High,2,1065,4568,0,10,9,5,8,7,2,Outstanding,No
+College,High,1,408,3022,4,8,1,0,0,0,1,Outstanding,No
+Master,High,2,1211,5772,4,14,9,6,0,8,4,Outstanding,No
+Below College,Very High,1,1229,2269,1,1,1,0,0,1,2,Excellent,No
+College,Medium,3,626,5381,9,23,1,0,0,0,2,Excellent,Yes
+Master,High,1,1434,3441,1,2,2,2,2,2,3,Excellent,Yes
+Doctor,High,2,1488,5454,5,9,4,3,1,3,2,Outstanding,No
+College,Medium,3,1097,9884,2,10,4,0,2,3,3,Excellent,No
+Bachelor,Medium,2,1443,4157,7,5,2,2,0,0,2,Excellent,No
+College,High,3,515,13458,1,15,15,14,8,12,1,Excellent,No
+Doctor,High,3,853,9069,1,9,9,8,1,8,3,Outstanding,No
+Master,High,1,1142,4014,3,4,2,2,2,2,3,Excellent,No
+Master,High,2,655,5915,3,10,7,7,1,7,3,Outstanding,No
+Master,Medium,2,1115,5993,1,7,7,5,0,7,2,Excellent,No
+Bachelor,High,2,427,6162,1,9,9,8,7,8,3,Outstanding,No
+Doctor,High,2,653,2406,1,10,10,3,9,9,2,Excellent,No
+College,Medium,5,989,18740,5,29,27,3,13,8,2,Excellent,No
+Bachelor,High,3,1435,7637,7,28,21,16,7,9,3,Excellent,No
+Bachelor,High,3,1223,10096,1,17,17,14,12,8,2,Excellent,No
+Bachelor,High,4,836,14756,2,21,5,0,0,2,2,Excellent,No
+Bachelor,Medium,2,1195,6499,1,6,6,5,0,3,3,Excellent,No
+Bachelor,High,3,1339,9724,2,25,1,0,0,0,2,Excellent,No
+Bachelor,High,1,664,2194,4,5,3,2,1,2,2,Excellent,No
+Bachelor,Medium,1,318,3388,0,2,1,0,0,0,0,Excellent,Yes
+Below College,Medium,2,1225,5473,7,20,4,3,1,3,2,Excellent,No
+Bachelor,High,1,1328,2703,0,6,5,4,0,4,3,Outstanding,No
+Master,High,1,1082,2501,1,1,1,1,1,0,4,Excellent,No
+Bachelor,High,2,548,6220,1,10,10,4,0,9,3,Excellent,No
+Bachelor,Very High,1,132,3038,3,5,1,0,0,0,3,Excellent,No
+Master,High,2,746,4424,1,11,11,7,1,8,2,Outstanding,No
+Master,Medium,2,776,4312,0,16,15,13,2,8,2,Excellent,No
+Master,High,3,193,13245,4,17,0,0,0,0,3,Excellent,No
+Master,High,3,397,13664,4,16,5,2,0,2,3,Excellent,No
+College,High,2,945,5021,8,16,4,2,0,2,2,Outstanding,No
+Below College,Medium,2,852,5126,1,10,10,8,3,0,1,Excellent,No
+Bachelor,Medium,1,1214,2859,1,6,6,4,0,4,3,Excellent,No
+College,High,3,111,10239,3,24,1,0,1,0,4,Excellent,No
+Bachelor,Low,2,573,5329,7,17,13,11,1,9,3,Excellent,No
+College,High,2,1153,4325,1,5,5,2,1,3,2,Excellent,No
+Bachelor,Low,3,1400,7260,4,37,6,4,0,2,3,Excellent,No
+Below College,High,1,541,2322,3,3,0,0,0,0,3,Excellent,No
+Master,High,1,432,2075,3,10,4,2,0,3,4,Outstanding,No
+Bachelor,Medium,2,288,4152,1,11,11,10,10,8,3,Excellent,No
+College,Medium,3,669,9619,1,9,9,8,4,7,3,Excellent,Yes
+Master,Medium,4,530,13503,1,22,22,3,11,11,3,Outstanding,No
+Master,High,2,632,5441,0,11,10,7,1,0,2,Outstanding,No
+College,Medium,2,1334,5209,1,11,11,8,2,7,4,Excellent,No
+Bachelor,Medium,3,638,10673,2,21,10,9,9,5,5,Excellent,No
+Master,High,2,1093,5010,1,12,11,8,5,7,0,Excellent,No
+Master,High,3,1217,13549,9,16,4,3,0,3,5,Excellent,No
+College,High,2,1353,4999,0,4,3,2,0,2,2,Outstanding,No
+Bachelor,High,2,120,4221,1,5,5,4,0,4,3,Excellent,No
+Master,High,4,682,13872,0,38,37,10,1,8,1,Excellent,No
+Bachelor,High,2,489,2042,4,17,3,2,1,2,3,Excellent,No
+Master,High,1,807,2073,4,7,3,2,0,2,3,Outstanding,Yes
+Below College,High,1,827,2956,1,1,1,0,0,0,2,Excellent,No
+Bachelor,Medium,1,871,2926,1,1,1,0,1,0,5,Excellent,Yes
+Master,High,2,665,4809,1,16,16,13,2,10,3,Excellent,No
+College,Medium,2,1040,5163,5,17,1,0,0,0,2,Excellent,No
+Master,Medium,5,1420,18844,9,30,3,2,2,2,3,Outstanding,No
+Bachelor,High,5,1115,18172,3,28,8,3,0,7,1,Excellent,No
+Bachelor,Medium,2,240,5744,1,6,6,4,0,3,1,Excellent,Yes
+Below College,Medium,1,1280,2889,1,2,2,2,2,1,2,Excellent,No
+Bachelor,High,1,534,2871,1,1,0,0,0,0,5,Excellent,No
+Master,Medium,3,1456,7484,3,23,13,12,12,8,1,Outstanding,No
+Bachelor,Low,2,658,6074,1,9,9,7,0,6,3,Outstanding,Yes
+Bachelor,Very High,4,142,17328,2,23,5,3,4,4,3,Excellent,No
+Below College,High,1,1127,2774,0,6,5,3,1,2,2,Excellent,No
+Master,Medium,2,1031,4505,6,12,1,0,0,0,3,Excellent,No
+Bachelor,High,3,1189,7428,2,12,5,3,1,3,3,Excellent,No
+Bachelor,Medium,3,1354,11631,2,14,11,10,5,8,6,Excellent,No
+College,High,3,1467,9738,0,10,9,7,2,8,6,Excellent,No
+College,High,1,922,2835,5,7,1,0,0,0,2,Outstanding,No
+College,High,4,394,16959,1,25,25,12,4,12,3,Excellent,No
+Bachelor,Low,1,1312,2613,1,10,10,7,0,9,2,Outstanding,No
+College,High,2,750,6146,0,8,7,7,0,7,2,Excellent,No
+Master,High,1,441,4963,9,7,5,4,4,3,2,Excellent,Yes
+Bachelor,High,5,684,19537,7,23,20,18,15,15,5,Excellent,No
+Master,Low,2,249,6172,4,12,7,7,7,7,3,Excellent,Yes
+Bachelor,Medium,1,841,2368,1,5,5,4,4,3,3,Excellent,No
+Master,High,3,147,10312,1,40,40,10,15,6,3,Excellent,Yes
+Below College,High,1,528,1675,1,0,0,0,0,0,2,Excellent,Yes
+Below College,High,1,594,2523,0,3,2,1,2,1,2,Excellent,No
+Master,High,2,470,6567,1,16,15,11,5,11,2,Excellent,No
+Bachelor,Very High,1,957,4739,4,18,3,2,1,2,2,Excellent,No
+Bachelor,High,3,809,9208,4,16,2,2,2,1,3,Excellent,No
+Bachelor,Low,2,542,4559,3,4,2,2,2,2,2,Excellent,Yes
+Below College,High,3,802,8189,3,12,9,7,0,7,2,Excellent,No
+Below College,High,1,1355,2942,1,8,8,7,5,7,3,Outstanding,No
+College,High,2,216,4941,6,7,3,2,0,1,0,Outstanding,No
+Master,Low,3,1150,10650,2,18,4,2,0,3,2,Excellent,Yes
+Master,Medium,2,1329,5902,4,17,15,11,5,9,1,Excellent,No
+Bachelor,Medium,2,959,8639,2,6,2,2,2,2,3,Excellent,No
+Bachelor,High,2,1240,6347,0,12,11,9,4,7,2,Excellent,No
+Bachelor,High,1,1033,4200,7,10,5,4,0,4,2,Outstanding,Yes
+Bachelor,High,1,1316,3452,5,9,6,5,0,3,2,Excellent,No
+Doctor,High,2,364,4317,3,19,3,2,2,2,2,Outstanding,No
+Bachelor,High,1,438,2632,1,5,5,4,0,4,4,Excellent,No
+College,Low,2,689,4668,0,9,8,7,0,7,2,Excellent,No
+Bachelor,High,1,201,3204,5,8,3,2,2,2,3,Excellent,No
+Below College,Medium,1,1427,2720,0,6,5,3,1,2,3,Excellent,No
+Bachelor,Medium,4,857,17181,4,21,7,6,7,7,2,Excellent,No
+Master,High,1,933,2238,2,7,5,0,1,4,2,Outstanding,No
+Below College,High,1,1181,1483,1,1,1,0,0,0,3,Excellent,No
+Bachelor,High,2,1395,5605,1,20,20,7,2,13,2,Excellent,No
+Doctor,High,3,662,7295,1,10,10,8,0,6,3,Excellent,No
+College,High,2,1436,2306,2,13,7,7,4,5,3,Outstanding,No
+Bachelor,High,2,194,2348,8,20,17,9,0,15,2,Excellent,No
+Bachelor,High,3,967,8998,1,9,9,8,3,7,2,Excellent,No
+Below College,High,2,1496,4319,1,10,10,7,0,9,1,Excellent,No
+Master,Medium,2,1169,6132,2,10,1,0,0,0,2,Excellent,No
+Bachelor,Medium,1,1145,3346,4,9,1,0,0,0,3,Outstanding,No
+Master,Medium,3,630,10855,7,15,12,11,2,11,2,Excellent,No
+Master,High,1,303,2231,6,6,4,3,1,2,3,Excellent,No
+Below College,High,1,1256,2323,1,2,2,2,2,2,6,Outstanding,No
+Bachelor,High,1,691,2024,6,6,2,2,2,2,1,Excellent,No
+Bachelor,High,1,440,2713,1,5,5,2,0,2,2,Excellent,No
+College,Very High,3,334,9439,3,12,5,3,1,4,2,Excellent,No
+Bachelor,Medium,1,1450,2566,1,1,1,1,0,1,2,Excellent,No
+Bachelor,High,5,1452,19926,3,21,5,4,4,4,5,Excellent,No
+Bachelor,High,1,465,2451,4,13,9,8,1,8,2,Excellent,No
+Bachelor,High,3,1339,9419,2,12,10,9,7,4,2,Excellent,No
+Master,Medium,2,702,8686,4,12,8,3,0,7,2,Outstanding,No
+Doctor,High,1,120,3038,3,8,5,4,1,4,2,Outstanding,No
+Bachelor,High,1,1157,3058,0,6,5,2,1,1,3,Excellent,No
+Below College,Low,1,602,2325,0,1,0,0,0,0,5,Outstanding,Yes
+College,High,1,1480,2088,4,13,8,7,7,2,3,Excellent,No
+Bachelor,High,2,111,3072,1,12,12,9,6,10,4,Excellent,No
+College,High,2,1268,5006,4,9,5,4,0,3,3,Excellent,No
+Bachelor,High,1,713,4257,4,19,2,2,2,2,3,Excellent,No
+Bachelor,High,1,134,2500,0,4,3,1,0,2,2,Excellent,No
+Bachelor,Medium,1,303,1102,1,1,1,0,1,0,3,Outstanding,Yes
+College,High,3,526,10453,1,24,24,13,15,7,2,Outstanding,No
+College,High,1,1380,2288,1,2,2,2,2,1,3,Excellent,No
+Below College,High,1,140,3929,8,7,4,2,0,2,0,Outstanding,No
+College,High,1,629,2311,2,9,3,2,1,2,3,Excellent,No
+College,High,1,1356,3140,1,4,4,3,0,2,5,Outstanding,Yes
+Bachelor,Medium,1,328,3690,2,5,3,2,0,2,2,Excellent,No
+College,Very High,2,1084,4450,1,5,4,2,1,3,3,Excellent,No
+Bachelor,High,1,931,2756,1,8,8,7,1,6,5,Excellent,No
+Below College,High,5,989,19033,1,21,20,8,9,9,2,Excellent,No
+Master,Very High,5,692,18722,8,36,24,15,2,15,3,Excellent,No
+Below College,Medium,2,1069,9547,1,10,10,9,1,9,2,Excellent,No
+Bachelor,High,4,313,13734,3,21,7,7,1,0,6,Excellent,No
+Master,Medium,5,699,19999,0,34,33,18,11,9,5,Excellent,No
+Bachelor,High,1,894,2279,1,7,7,7,0,3,2,Excellent,No
+College,Medium,2,556,5916,3,8,1,0,0,1,1,Excellent,Yes
+Bachelor,Very High,1,1344,2089,4,7,5,4,2,2,3,Excellent,No
+College,Medium,4,1195,16792,9,22,20,8,11,8,1,Outstanding,No
+Bachelor,Very High,1,290,3564,1,8,8,7,1,7,3,Excellent,No
+Bachelor,High,2,138,4425,5,10,6,2,1,2,5,Excellent,No
+College,High,2,926,5265,2,11,5,3,0,2,5,Excellent,No
+Master,High,2,1261,6553,9,14,1,0,0,0,3,Excellent,No
+Bachelor,High,2,1084,6261,3,9,7,7,1,7,3,Excellent,No
+Below College,Medium,2,472,4298,5,6,2,2,2,0,1,Excellent,No
+Master,High,2,1002,6804,1,7,7,7,1,7,0,Excellent,No
+Master,High,1,878,3815,1,5,5,3,2,0,4,Excellent,No
+College,High,2,905,2741,8,15,7,2,3,7,2,Excellent,No
+Below College,High,2,1180,6673,7,17,1,0,0,0,2,Excellent,Yes
+Bachelor,High,3,121,7639,1,10,10,4,1,9,3,Outstanding,Yes
+Bachelor,Very High,1,1136,2328,1,4,4,2,2,2,2,Excellent,No
+Below College,High,1,635,2153,1,8,8,1,1,7,2,Excellent,No
+Doctor,Medium,2,1151,4876,9,5,3,2,0,2,5,Excellent,No
+Master,High,3,644,9396,7,17,4,2,0,3,3,Excellent,No
+Master,Low,3,1045,10400,1,14,14,8,9,8,2,Excellent,Yes
+Below College,Medium,3,829,8474,1,12,11,8,5,8,2,Outstanding,No
+Bachelor,High,2,1242,9981,1,7,7,7,0,7,2,Excellent,No
+Master,Medium,3,1469,12490,5,16,10,9,4,7,5,Excellent,No
+Bachelor,High,1,1005,2657,5,8,5,2,0,4,5,Excellent,Yes
+Bachelor,High,3,896,13591,3,16,1,0,0,0,3,Excellent,No
+Master,Medium,2,334,6696,5,9,6,3,0,1,5,Excellent,Yes
+Bachelor,High,1,992,2058,0,7,6,2,1,5,1,Excellent,Yes
+Bachelor,Medium,3,1052,8865,6,23,19,7,12,8,2,Excellent,No
+Bachelor,High,2,1147,5940,2,16,6,2,0,5,4,Excellent,No
+College,High,2,1396,5914,8,16,13,11,3,7,3,Excellent,No
+Master,Medium,1,147,2622,6,7,3,2,1,1,3,Outstanding,No
+Bachelor,High,3,663,12185,1,10,10,8,0,7,1,Excellent,No
+Bachelor,High,3,119,10609,0,17,16,10,5,13,6,Excellent,No
+Master,Low,2,979,4345,0,6,5,4,1,4,2,Excellent,No
+Bachelor,Medium,1,142,2177,3,7,1,0,0,0,6,Excellent,No
+Master,High,1,319,2793,4,13,9,8,5,8,2,Excellent,No
+Below College,High,3,1413,7918,1,11,11,10,4,1,5,Excellent,No
+Bachelor,High,3,944,8789,1,10,10,7,0,8,3,Excellent,No
+Below College,Medium,1,896,2389,1,4,4,3,0,1,3,Excellent,Yes
+Bachelor,Medium,1,1323,3212,7,6,2,2,2,2,3,Excellent,No
+College,High,5,532,19232,1,22,22,17,11,15,3,Excellent,No
+College,High,1,818,2267,8,7,2,2,2,2,2,Excellent,No
+Master,High,5,854,19517,3,32,7,0,0,6,3,Excellent,No
+Bachelor,High,1,813,2436,5,8,5,4,0,4,2,Excellent,Yes
+Bachelor,High,4,1034,16064,5,22,17,13,1,9,3,Outstanding,No
+College,High,1,465,2707,7,13,9,7,1,7,3,Outstanding,Yes
+Master,Medium,5,771,19068,1,33,33,7,15,12,2,Excellent,No
+College,High,1,1401,3931,2,6,4,3,1,2,5,Excellent,No
+Bachelor,Medium,1,515,3730,0,4,3,2,1,2,2,Excellent,Yes
+Master,High,1,1431,2232,7,7,3,2,1,2,1,Excellent,No
+Master,High,2,976,4465,0,4,3,2,2,2,2,Excellent,No
+College,High,2,1411,3072,2,17,1,0,0,0,2,Excellent,No
+College,High,2,1300,3319,1,9,9,8,4,7,3,Excellent,No
+Bachelor,Very High,5,252,19202,0,25,24,0,1,7,2,Excellent,No
+Master,High,3,1327,13675,9,9,2,2,2,2,3,Excellent,No
+Master,Medium,1,832,2911,1,2,2,2,0,2,2,Excellent,No
+Master,Medium,2,470,5957,6,13,11,9,5,9,3,Excellent,No
+College,Medium,1,1017,3920,2,17,3,1,0,2,2,Excellent,No
+Master,Very High,2,1199,6434,4,9,3,2,0,2,1,Excellent,No
+Bachelor,High,3,504,10048,6,17,1,0,0,0,5,Excellent,Yes
+Master,High,3,505,10938,0,20,19,6,11,8,1,Outstanding,No
+Bachelor,High,1,665,2340,1,6,6,5,1,5,1,Excellent,No
+College,Very High,2,916,6545,3,10,3,2,0,2,1,Excellent,No
+College,High,2,1247,6931,2,10,3,2,0,2,2,Excellent,No
+Bachelor,High,2,685,4898,0,5,4,2,1,2,3,Excellent,No
+Bachelor,Medium,1,269,2593,0,10,9,6,7,8,4,Excellent,No
+College,High,5,1416,19436,0,22,21,7,3,9,5,Excellent,No
+Bachelor,High,1,833,2723,1,1,1,0,0,0,0,Excellent,No
+College,Medium,1,307,3479,0,6,5,4,1,4,2,Excellent,Yes
+Bachelor,Very High,1,1311,2794,1,5,5,1,0,3,3,Outstanding,No
+College,Medium,2,1327,5249,3,13,8,7,7,5,0,Excellent,No
+Below College,Medium,2,128,2176,4,9,6,2,0,4,5,Excellent,No
+Bachelor,Low,4,488,16872,3,28,7,7,7,7,2,Excellent,No
+Master,High,1,529,3485,2,5,0,0,0,0,5,Excellent,Yes
+Bachelor,Medium,2,1210,6644,2,10,0,0,0,0,2,Excellent,No
+Bachelor,Medium,2,1463,5582,0,10,9,0,7,8,2,Outstanding,No
+College,Very High,2,675,4000,1,6,6,3,1,5,2,Excellent,No
+College,High,4,1385,13496,0,21,20,7,4,10,2,Excellent,No
+Bachelor,High,1,1403,3210,0,16,15,13,10,11,4,Excellent,No
+Bachelor,High,5,452,19045,0,37,36,10,4,13,2,Excellent,No
+Master,High,3,666,11849,1,10,10,7,9,9,2,Excellent,Yes
+Bachelor,High,1,1158,2070,1,5,5,2,0,4,3,Outstanding,No
+Master,High,2,228,6502,4,7,5,4,0,1,5,Excellent,No
+College,Medium,1,996,3230,1,3,3,2,1,0,4,Excellent,No
+Master,High,3,728,13603,2,15,5,2,0,2,2,Excellent,No
+Bachelor,Very High,3,1315,11996,7,10,7,7,6,2,6,Excellent,No
+College,Very High,2,322,5605,1,8,8,0,7,7,3,Outstanding,No
+Bachelor,High,2,1479,6397,1,6,6,5,1,4,6,Outstanding,No
+Below College,High,5,797,19144,3,28,10,4,1,6,4,Excellent,No
+Master,High,4,1070,17584,3,21,5,3,1,3,5,Excellent,No
+Below College,High,2,635,4907,1,20,20,16,11,6,3,Outstanding,No
+College,High,2,442,4554,1,10,10,7,0,9,3,Excellent,No
+College,High,2,147,5415,3,12,10,7,0,8,4,Excellent,No
+College,High,2,496,4741,1,5,5,3,3,3,3,Excellent,No
+Bachelor,High,1,1372,2115,1,17,17,12,5,7,3,Excellent,No
+Bachelor,High,1,920,3161,3,19,1,0,0,0,0,Outstanding,Yes
+Master,High,2,688,5745,9,10,2,2,1,2,2,Excellent,No
+Master,High,1,1449,2373,2,5,3,2,0,2,2,Excellent,Yes
+College,High,1,1117,3310,1,5,5,3,0,2,3,Outstanding,No
+Master,High,5,636,18665,9,22,3,2,1,2,4,Excellent,No
+Bachelor,High,2,506,4485,4,10,8,0,7,7,2,Excellent,No
+Bachelor,High,1,444,2789,1,2,2,2,2,2,5,Excellent,No
+Master,Medium,2,950,5828,1,8,8,7,7,4,0,Excellent,Yes
+Bachelor,High,1,889,2326,1,4,4,2,1,2,3,Excellent,No
+Bachelor,High,4,555,13525,5,23,20,4,4,8,2,Excellent,No
+Bachelor,High,1,230,1420,1,0,0,0,0,0,2,Excellent,Yes
+Bachelor,High,3,1232,8020,0,12,11,9,6,9,3,Excellent,No
+Master,Very High,1,566,3688,4,4,1,0,0,0,2,Excellent,No
+Bachelor,Low,2,1302,5482,5,13,4,1,1,2,3,Excellent,No
+Master,High,4,334,16015,1,22,22,10,0,4,2,Excellent,No
+Bachelor,Medium,1,812,1200,1,0,0,0,0,0,2,Excellent,No
+College,Very High,2,1476,5661,0,9,8,3,0,7,2,Excellent,No
+Bachelor,Very High,2,218,6929,4,10,8,7,7,7,3,Excellent,No
+Bachelor,Very High,3,1132,9613,0,19,18,10,3,7,5,Excellent,No
+Master,High,2,1105,5674,7,11,9,8,0,8,3,Excellent,No
+Bachelor,Medium,2,906,5484,1,13,13,8,4,8,3,Excellent,No
+College,Medium,3,849,12061,3,19,10,8,0,1,2,Excellent,No
+Master,Low,2,390,5660,2,12,5,3,1,2,2,Excellent,No
+Master,High,1,691,4821,0,6,5,2,0,3,4,Excellent,No
+Bachelor,Medium,2,106,6410,3,9,2,2,1,0,1,Excellent,No
+Bachelor,High,3,1249,5210,1,24,24,9,9,11,2,Excellent,No
+Master,High,1,192,2695,0,3,2,2,2,2,2,Excellent,No
+Master,High,3,553,11878,6,12,10,6,8,8,2,Excellent,No
+Below College,High,4,117,17068,1,21,21,9,11,10,3,Excellent,No
+Master,High,1,185,2455,0,9,8,7,1,7,5,Excellent,No
+College,Medium,4,1091,13964,7,25,7,1,0,7,2,Excellent,No
+Master,Medium,2,723,4941,2,11,8,2,7,7,3,Excellent,Yes
+Bachelor,High,1,1220,2478,1,4,4,3,1,2,2,Excellent,No
+College,Medium,2,588,5228,1,13,13,12,11,9,2,Excellent,No
+Bachelor,High,2,1377,4478,1,5,5,4,0,4,3,Excellent,No
+Bachelor,High,2,691,7547,4,13,7,7,1,7,3,Excellent,No
+Master,Very High,2,1018,5055,7,10,7,7,0,7,0,Excellent,No
+Master,Low,1,1157,3464,5,5,3,2,2,2,4,Excellent,Yes
+College,High,2,1275,5775,1,11,10,8,1,9,2,Excellent,No
+College,Medium,3,798,8943,1,10,10,9,8,9,2,Outstanding,No
+College,Medium,5,672,19272,1,21,21,9,13,3,2,Excellent,No
+College,High,2,1162,5238,4,12,1,0,0,0,3,Excellent,Yes
+Bachelor,Medium,2,508,4682,3,9,7,7,0,1,6,Excellent,No
+Doctor,High,5,1482,18300,4,21,3,2,1,1,2,Excellent,No
+Master,Medium,2,559,5257,1,9,9,7,0,0,3,Excellent,No
+Below College,High,2,210,6349,0,6,5,4,1,4,0,Excellent,No
+Master,High,2,928,4869,3,20,4,3,0,3,4,Excellent,No
+Bachelor,High,3,1001,9985,8,10,1,0,0,0,1,Excellent,No
+Master,High,2,549,3697,9,12,10,9,9,8,3,Excellent,No
+College,Low,2,1124,7457,2,6,4,3,0,2,2,Outstanding,No
+Master,Low,1,318,2119,1,7,7,7,0,7,4,Excellent,Yes
+Doctor,Medium,1,738,3983,0,4,3,2,2,2,2,Excellent,No
+Bachelor,Medium,2,570,6118,1,10,10,9,1,2,2,Excellent,No
+Master,High,2,1130,6214,1,8,8,7,0,7,3,Excellent,No
+College,High,2,1192,6347,7,8,6,2,0,4,2,Excellent,No
+College,Medium,3,343,11510,0,12,11,10,2,9,3,Excellent,No
+Master,High,3,1232,7143,1,11,11,9,4,10,2,Excellent,No
+Below College,Medium,2,144,8268,1,7,7,7,1,7,2,Excellent,No
+Master,High,3,1296,8095,0,17,16,6,0,13,5,Excellent,No
+Below College,High,1,1309,2904,1,4,4,2,0,2,2,Excellent,No
+Bachelor,Medium,2,483,6032,6,8,5,4,1,2,3,Excellent,No
+Below College,High,2,1309,2976,3,5,0,0,0,0,3,Excellent,No
+Doctor,High,4,810,15992,2,16,1,0,0,0,2,Excellent,No
+Bachelor,High,2,746,4649,1,4,4,3,0,2,3,Excellent,No
+Below College,High,1,544,2696,0,4,3,2,1,0,5,Excellent,No
+Bachelor,High,1,1062,2370,1,8,8,0,0,7,4,Excellent,No
+Below College,High,3,530,12504,3,15,0,0,0,0,3,Outstanding,No
+Bachelor,Very High,2,1319,5974,4,13,7,7,6,7,2,Excellent,No
+College,High,2,641,4736,7,4,2,2,2,2,2,Excellent,No
+Bachelor,High,2,933,5296,1,8,8,7,7,7,3,Excellent,No
+Master,Medium,2,1332,6781,3,14,1,0,0,0,6,Outstanding,No
+Below College,Medium,1,756,2174,1,3,3,2,1,2,3,Excellent,Yes
+Doctor,High,2,845,6653,4,7,1,0,0,0,6,Excellent,No
+Master,Medium,3,541,9699,4,16,13,9,1,12,2,Excellent,No
+Master,High,2,593,6755,2,15,3,2,1,2,2,Excellent,No
+Master,Very High,1,1171,2213,3,10,7,7,1,7,3,Excellent,No
+College,High,1,895,2610,1,3,3,2,2,2,3,Outstanding,No
+Bachelor,High,1,350,2851,1,1,1,0,0,0,2,Excellent,Yes
+Bachelor,High,1,921,3452,6,17,5,4,0,3,3,Outstanding,No
+Master,High,2,1144,5258,2,7,1,0,0,0,2,Excellent,No
+Bachelor,High,2,143,9355,1,8,8,7,7,7,5,Excellent,Yes
+Bachelor,Medium,3,1046,10496,6,20,4,3,1,3,2,Excellent,No
+College,Medium,2,575,6380,2,8,6,4,1,0,6,Excellent,Yes
+Master,Medium,1,408,2657,0,3,2,2,2,2,5,Excellent,No
+Bachelor,Very High,1,156,2716,1,1,1,0,0,0,0,Excellent,Yes
+Bachelor,High,1,1283,2201,9,6,3,2,1,2,4,Excellent,No
+Master,Medium,2,755,6540,9,10,1,1,0,0,5,Excellent,No
+College,High,1,1469,3816,1,5,5,2,0,4,2,Excellent,No
+Master,High,2,304,5253,1,7,7,5,0,7,1,Excellent,No
+Bachelor,Medium,3,1261,10965,8,26,5,2,0,0,2,Outstanding,No
+College,High,2,1178,4936,4,18,7,7,0,7,2,Excellent,No
+Bachelor,High,1,329,2543,4,6,2,2,2,2,3,Excellent,No
+Bachelor,Very High,2,1362,5304,8,9,5,2,0,4,3,Excellent,Yes
+Bachelor,High,4,1311,16659,2,30,5,4,1,2,2,Excellent,No
+Master,High,2,1371,4260,1,5,5,2,0,3,2,Excellent,No
+Below College,High,1,202,2476,1,1,1,0,0,0,3,Excellent,No
+Below College,High,1,575,3102,0,7,6,4,0,4,2,Outstanding,Yes
+Bachelor,High,1,253,2244,1,2,2,1,1,2,1,Excellent,No
+College,Medium,3,164,7596,1,10,10,9,9,0,2,Excellent,No
+Bachelor,High,1,464,2285,9,3,1,0,0,0,4,Outstanding,Yes
+Bachelor,High,1,1107,3034,1,18,18,7,12,17,2,Excellent,No
+College,High,2,759,5715,7,8,5,4,1,3,5,Excellent,No
+Master,High,1,201,2576,3,8,5,2,1,2,5,Excellent,No
+Master,High,2,1305,4197,2,18,1,0,0,1,2,Excellent,No
+Bachelor,Medium,4,982,14336,1,25,25,10,3,9,3,Excellent,No
+Bachelor,Medium,2,555,3448,6,20,1,0,0,0,3,Outstanding,No
+College,High,5,821,19406,4,24,4,2,1,2,4,Excellent,No
+Master,High,2,1381,6538,9,6,3,2,1,2,3,Excellent,No
+College,High,2,480,4306,1,13,13,10,3,12,5,Excellent,No
+Bachelor,High,1,313,2258,7,8,3,2,1,2,1,Outstanding,No
+Master,High,2,1473,4522,4,8,5,2,0,2,3,Excellent,No
+College,Medium,2,891,4487,1,5,5,4,1,3,3,Excellent,No
+Doctor,High,2,1063,4449,3,15,13,11,10,7,2,Excellent,No
+College,Medium,1,329,2218,1,4,4,2,3,2,3,Excellent,No
+Below College,High,5,1218,19197,1,21,21,8,1,6,3,Excellent,No
+Bachelor,Very High,4,906,13212,9,36,7,7,7,7,0,Excellent,No
+Bachelor,High,2,1082,6577,0,6,5,4,4,4,6,Excellent,No
+Bachelor,Very High,3,645,8392,1,10,10,7,0,7,2,Excellent,No
+College,High,2,1300,4558,1,10,10,0,1,8,2,Excellent,No
+Bachelor,High,1,688,4031,5,6,2,2,0,2,5,Excellent,Yes
+Bachelor,Medium,3,319,7969,2,28,5,4,0,4,4,Excellent,No
+College,High,1,192,2654,3,8,2,2,0,2,3,Outstanding,No
+College,High,4,1490,16555,2,31,5,2,1,4,2,Excellent,No
+College,High,2,532,4556,2,19,5,4,0,2,3,Excellent,No
+Bachelor,Low,2,317,6091,2,11,5,4,0,2,2,Outstanding,No
+Bachelor,High,5,422,19566,5,33,29,8,11,10,5,Excellent,No
+Bachelor,High,2,1485,4810,2,19,10,7,0,8,5,Excellent,No
+Master,Medium,2,1368,4523,0,7,6,5,0,4,4,Excellent,No
+Below College,High,1,1448,3202,1,6,5,3,1,4,4,Excellent,Yes
+College,Low,1,296,2351,0,3,2,2,1,0,3,Excellent,Yes
+College,High,1,1490,1702,1,1,1,0,0,0,3,Outstanding,No
+Master,High,5,1398,18041,0,21,20,15,1,12,2,Excellent,No
+Bachelor,High,1,1349,2886,1,3,3,2,0,2,3,Outstanding,No
+Bachelor,High,1,1400,2097,4,9,5,3,1,4,3,Excellent,No
+Master,Medium,3,986,11935,1,10,10,2,0,7,2,Excellent,No
+Doctor,Medium,1,408,2546,5,6,2,2,1,1,2,Excellent,Yes
+College,Medium,1,489,2564,1,1,1,0,0,0,3,Excellent,Yes
+Master,High,3,1398,8412,0,10,9,8,7,8,3,Excellent,No
+Bachelor,Medium,4,210,14118,3,32,1,0,0,0,3,Excellent,No
+Master,Medium,4,1099,17046,0,28,27,10,15,7,2,Excellent,No
+Bachelor,High,1,1116,2564,0,12,11,7,6,7,2,Excellent,No
+Bachelor,Medium,3,1499,10266,4,22,18,13,13,11,5,Excellent,No
+College,High,2,983,5070,5,20,5,0,0,4,2,Excellent,No
+Bachelor,High,4,1009,17861,6,26,3,2,0,1,2,Excellent,No
+Bachelor,Low,1,144,4230,0,6,5,4,4,3,2,Excellent,No
+Master,High,2,548,3780,7,19,1,0,0,0,3,Excellent,No
+Master,Medium,1,1303,2768,3,14,7,3,5,7,3,Excellent,No
+Bachelor,Medium,3,1125,9071,2,15,3,2,1,2,3,Excellent,No
+Below College,High,3,1274,10648,1,13,13,8,0,8,6,Outstanding,No
+Below College,High,3,1277,13610,7,15,7,6,7,7,2,Excellent,Yes
+Below College,Low,1,587,3408,7,8,4,3,1,3,2,Excellent,Yes
+Below College,High,1,413,2983,0,4,3,2,1,2,3,Excellent,No
+Bachelor,High,3,1276,7632,4,10,8,7,0,0,2,Excellent,No
+Bachelor,High,3,534,9824,3,12,1,0,0,0,2,Excellent,Yes
+Bachelor,High,3,988,9950,9,11,3,2,0,2,2,Excellent,Yes
+College,High,1,1474,2093,4,8,2,2,2,0,4,Excellent,No
+Master,High,3,635,9980,1,10,10,3,9,7,3,Excellent,No
+Below College,Medium,1,1368,3894,5,4,2,2,1,2,3,Excellent,Yes
+Doctor,High,2,163,4051,2,14,9,7,6,7,2,Excellent,No
+Doctor,High,4,1117,16835,3,37,10,9,7,7,2,Outstanding,No
+College,High,2,267,6230,7,16,14,3,1,10,3,Excellent,No
+Bachelor,High,2,619,4717,9,15,11,9,6,9,2,Excellent,No
+Bachelor,High,4,302,13237,7,22,20,6,5,13,3,Excellent,No
+Below College,High,1,443,3755,1,8,8,3,0,7,3,Excellent,No
+Below College,High,2,828,6582,4,10,6,5,0,5,2,Excellent,No
+Bachelor,High,3,319,7406,1,10,10,9,5,8,5,Outstanding,No
+Bachelor,High,2,561,4805,0,9,8,7,3,7,3,Excellent,No
+Master,High,1,426,2741,0,8,7,7,1,0,2,Excellent,Yes
+Bachelor,High,2,232,4262,4,8,3,2,1,2,2,Excellent,No
+Doctor,Very High,4,922,16184,4,10,6,1,0,5,2,Excellent,No
+Bachelor,Medium,3,688,11557,9,10,5,4,0,1,3,Outstanding,No
+Bachelor,High,1,1306,1878,1,0,0,0,0,0,3,Excellent,Yes
+Bachelor,Low,3,1094,10932,3,20,1,0,0,1,2,Excellent,No
+Master,Medium,2,509,6811,2,10,8,7,0,7,3,Excellent,No
+College,High,2,775,4306,5,8,0,0,0,0,5,Excellent,No
+Bachelor,High,2,195,4859,1,5,5,4,0,3,3,Excellent,No
+Master,Very High,2,258,5337,1,10,10,7,5,7,3,Excellent,No
+Bachelor,Low,1,471,2340,1,1,1,0,0,0,3,Excellent,Yes
+Bachelor,High,3,799,7491,4,12,6,5,1,2,3,Excellent,No
+Below College,High,3,1034,10527,5,28,2,2,1,2,3,Excellent,No
+Doctor,High,4,1276,16595,7,22,18,16,11,8,2,Excellent,No
+Master,High,3,142,8834,1,9,9,5,7,7,6,Excellent,No
+College,High,2,956,5577,3,18,10,9,6,9,3,Excellent,No
+Master,Very High,2,1474,4707,8,6,4,2,1,2,2,Excellent,Yes
+Bachelor,High,1,535,2400,0,3,2,2,2,1,3,Excellent,No
+Bachelor,High,2,1495,9824,3,18,1,0,0,0,4,Excellent,No
+Master,High,2,446,6447,6,8,6,5,4,3,2,Excellent,No
+Master,Medium,5,1245,19502,1,31,31,9,0,9,5,Excellent,No
+Bachelor,Very High,1,691,2725,1,6,6,5,1,4,3,Excellent,No
+College,High,2,703,6272,1,6,5,3,1,4,5,Outstanding,No
+College,Medium,1,823,2127,1,1,1,0,0,0,2,Outstanding,No
+Bachelor,High,5,1246,18200,1,32,32,5,10,7,2,Excellent,No
+Below College,High,1,622,2096,1,7,7,4,0,6,1,Excellent,No
+Bachelor,High,1,1287,2886,1,6,6,3,1,2,4,Excellent,Yes
+Master,Medium,1,448,2033,1,1,1,0,0,0,2,Excellent,Yes
+College,Medium,1,254,3622,1,6,6,5,1,3,3,Excellent,No
+Master,High,2,1365,4233,2,9,3,1,1,2,2,Excellent,Yes
+College,Medium,2,538,3681,4,9,3,2,0,2,3,Excellent,No
+Master,Very High,2,525,5460,4,13,7,7,5,7,4,Outstanding,No
+Master,Medium,1,798,2187,0,6,5,3,0,3,5,Excellent,No
+Bachelor,High,2,558,9602,4,17,3,0,1,0,3,Excellent,No
+Bachelor,Medium,1,959,2836,1,1,1,0,0,0,0,Excellent,No
+Master,High,2,622,4089,1,10,10,2,2,2,4,Excellent,No
+Master,Medium,4,782,16627,4,21,1,0,0,0,3,Excellent,No
+Below College,High,1,362,2619,3,8,0,0,0,0,3,Excellent,No
+Doctor,High,2,1001,5679,3,10,8,7,4,7,3,Excellent,No
+Master,Medium,4,1236,15402,7,21,3,2,0,2,3,Excellent,No
+Master,Medium,2,1112,5985,4,10,2,2,0,2,1,Excellent,No
+Bachelor,High,1,204,2579,1,8,8,2,0,6,3,Excellent,No
+Below College,High,1,1420,3041,0,5,4,3,0,2,3,Excellent,Yes
+Below College,High,1,1343,3447,1,3,3,2,1,2,2,Excellent,No
+Master,High,5,1315,19513,4,26,2,2,0,1,2,Excellent,No
+Below College,High,1,604,2773,0,3,2,2,2,2,3,Outstanding,No
+Master,High,2,1216,7104,0,6,5,0,1,2,3,Excellent,No
+Master,High,2,646,6322,1,6,6,4,0,5,2,Excellent,No
+Bachelor,High,1,160,2083,1,1,1,0,0,0,2,Outstanding,No
+Below College,High,2,238,8381,7,18,14,7,8,10,2,Outstanding,No
+Doctor,High,1,1397,2691,1,10,10,9,8,8,4,Excellent,No
+Master,High,2,306,4286,2,5,1,1,0,0,4,Excellent,Yes
+Bachelor,High,1,991,2659,1,3,3,2,0,2,2,Excellent,No
+Bachelor,High,3,482,9434,1,10,10,7,7,8,2,Excellent,No
+College,High,2,1176,5561,1,6,6,0,1,2,5,Excellent,No
+Master,Low,2,1017,6646,1,17,17,11,11,8,3,Excellent,No
+Bachelor,High,2,1296,7725,3,15,13,11,4,7,2,Outstanding,No
+Master,High,3,397,10725,2,16,9,7,7,1,1,Excellent,No
+College,Medium,2,913,8847,2,13,3,2,0,2,2,Excellent,No
+Master,Medium,1,1115,2045,0,5,4,2,1,1,0,Excellent,No
+Below College,High,1,1362,1009,1,1,1,0,1,1,5,Excellent,Yes
+Bachelor,High,1,1076,3348,1,10,10,8,9,7,3,Excellent,Yes
+Bachelor,Medium,1,727,1281,1,1,1,0,0,0,3,Excellent,No
+Bachelor,Very High,1,885,2819,2,5,3,2,0,2,3,Excellent,No
+Bachelor,Very High,2,810,4851,0,4,3,2,1,2,4,Outstanding,No
+Master,Medium,2,243,4028,0,8,7,7,0,5,2,Outstanding,No
+Master,Low,1,806,2720,1,10,10,7,2,8,5,Excellent,No
+Below College,Very High,2,817,8120,3,12,2,2,2,2,3,Excellent,No
+Below College,Very High,2,1410,4647,1,6,6,5,0,4,3,Outstanding,No
+College,Very High,1,1225,4680,3,4,1,0,0,0,2,Excellent,No
+Below College,Very High,1,1207,3221,1,20,20,8,3,8,3,Excellent,No
+Bachelor,Medium,3,1442,8621,1,9,8,7,7,7,3,Excellent,No
+College,High,2,693,4577,9,4,2,2,2,0,3,Excellent,Yes
+Master,Medium,2,408,4553,1,20,20,7,11,10,4,Excellent,No
+Bachelor,High,2,929,5396,1,10,10,7,0,8,2,Excellent,No
+College,High,2,562,6796,3,18,4,3,1,3,4,Excellent,Yes
+Master,Very High,2,827,7625,0,10,9,7,1,8,4,Excellent,No
+College,High,3,608,7412,1,9,9,7,0,7,3,Excellent,No
+College,High,3,1018,11159,3,10,7,7,7,7,6,Excellent,No
+Master,High,2,703,4960,2,20,7,7,1,7,2,Excellent,No
+Master,Medium,3,580,10475,5,20,18,13,1,12,2,Outstanding,No
+Bachelor,Very High,4,970,14814,3,32,5,1,1,3,3,Excellent,No
+Master,Medium,5,427,19141,3,23,21,6,12,6,2,Excellent,No
+Master,High,2,1179,5405,8,10,2,2,2,2,1,Excellent,No
+College,High,3,294,8793,1,9,9,7,1,7,4,Outstanding,No
+Bachelor,Medium,5,314,19189,1,22,22,7,2,10,3,Excellent,No
+Master,High,1,316,3875,7,4,2,2,2,2,2,Excellent,No
+College,Low,1,654,2216,7,10,7,7,3,7,4,Excellent,Yes
+Bachelor,Very High,3,427,11713,9,10,8,7,0,5,2,Excellent,No
+Bachelor,High,3,168,7861,4,10,1,0,0,0,4,Excellent,No
+Bachelor,Low,1,381,3708,2,9,5,2,1,4,5,Excellent,No
+Bachelor,High,4,217,13770,9,28,22,2,11,13,2,Excellent,No
+Doctor,High,2,501,5304,7,10,8,7,7,7,2,Outstanding,No
+Bachelor,High,1,1396,2642,1,1,1,0,0,0,6,Excellent,No
+Bachelor,Very High,1,933,2759,6,7,2,2,2,2,2,Excellent,Yes
+Bachelor,Medium,2,775,6804,3,7,2,2,2,2,5,Excellent,No
+College,High,2,970,6142,3,10,5,1,4,3,2,Excellent,No
+Below College,High,1,650,2500,1,5,4,3,0,2,2,Excellent,No
+Bachelor,Very High,2,141,6389,9,12,8,3,3,6,3,Excellent,No
+Bachelor,High,4,832,11103,7,30,10,7,1,1,1,Excellent,No
+Below College,Medium,1,804,2342,0,5,4,2,2,3,2,Outstanding,No
+Bachelor,Medium,2,975,6811,8,9,7,6,0,7,2,Excellent,No
+Bachelor,High,1,1090,2297,1,2,2,2,2,2,2,Excellent,No
+Bachelor,High,2,346,2450,2,19,2,2,2,2,4,Excellent,No
+Master,High,2,1225,5093,2,16,1,0,0,0,2,Excellent,No
+Master,High,2,430,5309,1,10,10,8,4,7,2,Excellent,No
+Doctor,High,1,268,3057,6,6,1,0,0,1,0,Excellent,No
+Doctor,High,2,167,5121,3,7,0,0,0,0,3,Excellent,No
+Master,Medium,4,621,16856,1,34,34,6,1,16,3,Excellent,No
+Master,High,1,527,2686,1,10,10,9,7,8,2,Excellent,Yes
+Below College,High,2,883,6180,1,6,6,5,1,4,5,Outstanding,No
+College,Low,2,954,6632,0,9,8,7,3,1,3,Excellent,No
+Below College,Very High,1,310,3505,1,2,2,2,0,2,3,Excellent,No
+College,Very High,2,719,6397,4,8,5,4,1,3,2,Excellent,Yes
+Bachelor,High,2,304,6274,1,6,6,5,1,4,5,Outstanding,No
+Bachelor,High,5,725,19859,5,24,5,2,1,4,2,Excellent,Yes
+Master,Medium,3,1434,7587,1,10,10,7,0,9,1,Excellent,No
+Master,High,1,715,4258,0,5,4,3,1,2,3,Excellent,No
+College,Low,1,575,4364,3,5,2,2,2,0,2,Excellent,No
+Bachelor,High,2,657,4335,4,11,8,7,1,1,3,Excellent,No
+Bachelor,Medium,2,1146,5326,6,6,4,3,1,2,2,Excellent,Yes
+Master,Very High,1,182,3280,2,10,4,2,1,3,2,Excellent,No
+Master,High,2,376,5485,9,9,5,3,1,4,4,Excellent,No
+Below College,High,2,829,4342,0,5,4,2,1,1,3,Excellent,No
+Below College,High,1,571,2782,0,6,5,3,4,3,3,Excellent,No
+Master,Very High,2,240,5980,6,17,15,7,4,12,2,Excellent,No
+Master,Medium,1,121,4381,1,6,6,5,1,3,3,Excellent,No
+Master,High,1,384,2572,1,3,3,2,0,2,1,Excellent,No
+Bachelor,Low,1,921,3833,3,7,2,2,0,2,2,Outstanding,No
+College,Very High,2,791,4244,1,8,8,7,3,7,2,Outstanding,No
+College,High,2,1111,6500,5,6,3,2,1,2,1,Excellent,No
+Bachelor,High,5,570,18430,1,24,24,7,14,9,4,Excellent,No
+Bachelor,Very High,1,1243,1601,1,1,0,0,0,0,2,Outstanding,Yes
+Bachelor,Medium,1,1092,2694,1,1,1,0,0,0,4,Excellent,No
+Master,High,2,1325,3149,8,9,5,2,1,4,3,Outstanding,No
+Bachelor,High,4,691,17639,5,30,4,3,0,3,3,Excellent,No
+College,Medium,1,805,2319,1,1,1,0,0,0,1,Excellent,Yes
+Bachelor,High,3,213,11691,0,14,13,9,3,7,3,Excellent,No
+Bachelor,High,2,118,5324,5,6,3,2,0,2,3,Excellent,Yes
+College,High,4,202,16752,1,26,26,14,3,0,3,Excellent,No
+Bachelor,High,2,676,5228,0,10,9,7,0,5,2,Excellent,No
+College,Very High,1,1252,2700,1,10,10,7,0,7,3,Outstanding,No
+Master,High,5,286,19246,7,40,31,15,13,8,2,Excellent,Yes
+Master,Very High,1,1258,2506,3,7,2,2,2,2,0,Excellent,No
+College,Medium,2,932,6062,9,8,4,3,0,2,4,Excellent,No
+Master,High,1,890,4382,6,5,2,2,2,1,3,Excellent,Yes
+Bachelor,High,1,1041,2143,4,8,5,2,0,4,2,Excellent,No
+Bachelor,Medium,2,859,6162,1,14,14,13,6,8,3,Excellent,No
+Master,Medium,2,720,5094,6,10,1,0,0,0,6,Excellent,No
+Bachelor,Medium,2,946,6877,5,12,0,0,0,0,4,Outstanding,No
+Bachelor,Medium,1,252,2274,1,1,1,0,0,0,3,Excellent,No
+Bachelor,High,2,933,4434,1,10,9,8,7,8,3,Excellent,No
+Bachelor,Medium,2,471,6288,2,13,4,3,1,2,3,Excellent,No
+Master,Medium,1,702,2553,1,6,5,2,1,3,3,Excellent,No
+Bachelor,High,3,1184,7654,1,9,9,8,7,7,3,Excellent,Yes
+Below College,High,2,436,5160,4,12,9,7,7,3,3,Excellent,Yes
+College,High,4,589,17159,6,22,4,1,1,0,3,Outstanding,No
+Below College,Medium,3,269,12808,1,9,9,8,0,8,3,Excellent,No
+Bachelor,High,3,950,10221,3,17,8,5,1,6,3,Outstanding,No
+Master,High,2,760,4779,1,8,8,7,7,5,2,Outstanding,No
+College,High,1,829,3737,0,4,3,2,0,2,1,Excellent,No
+College,Medium,1,887,2366,1,8,8,7,1,7,2,Excellent,Yes
+Bachelor,High,1,443,1706,1,0,0,0,0,0,6,Excellent,No
+Master,High,4,1318,16307,2,29,20,6,4,17,2,Excellent,No
+Bachelor,High,2,625,5933,9,10,5,2,2,3,2,Excellent,No
+Below College,Very High,1,180,3424,7,6,4,3,0,1,3,Excellent,No
+Bachelor,Very High,2,586,4037,1,9,9,8,0,8,5,Outstanding,No
+Below College,Medium,1,1343,2559,1,6,6,5,1,1,3,Excellent,No
+College,High,2,928,6201,1,18,18,14,4,11,1,Excellent,No
+Master,High,2,117,4403,2,8,5,2,0,3,3,Excellent,No
+Master,Medium,1,1012,3761,9,10,5,4,0,3,3,Excellent,No
+College,Medium,3,661,10934,7,35,5,2,0,4,3,Excellent,No
+Bachelor,High,3,930,10761,4,18,5,4,0,2,2,Excellent,No
+College,Very High,2,638,5175,5,9,5,3,1,3,3,Excellent,No
+Master,Medium,4,890,13826,3,31,9,8,0,0,3,Outstanding,No
+Master,Medium,2,342,6334,4,9,1,0,0,0,2,Excellent,No
+College,Medium,1,1169,4936,1,6,5,1,0,4,6,Excellent,No
+College,Medium,2,1230,4775,6,4,2,2,2,2,2,Outstanding,No
+Master,Very High,1,986,2818,2,10,3,2,0,2,2,Outstanding,No
+Below College,High,1,1271,2515,5,8,2,1,2,2,2,Excellent,No
+Bachelor,Medium,1,1278,2342,0,6,5,4,0,3,3,Outstanding,No
+Below College,High,2,141,4194,1,5,5,3,0,3,3,Excellent,No
+Bachelor,Medium,3,607,10685,1,17,17,14,5,15,2,Outstanding,No
+Master,High,1,130,2022,1,10,10,2,7,8,3,Excellent,Yes
+Bachelor,High,1,300,2314,0,4,3,0,0,2,2,Excellent,No
+Below College,Medium,2,583,4256,1,5,5,2,0,3,1,Excellent,No
+Bachelor,High,1,1418,3580,2,7,4,2,0,2,2,Excellent,No
+Below College,Medium,1,1269,3162,0,6,5,2,3,4,2,Excellent,No
+College,High,2,379,6524,1,10,10,8,5,3,3,Excellent,No
+Bachelor,Medium,1,395,2899,0,3,2,2,1,2,3,Excellent,No
+Bachelor,Very High,2,1265,5231,2,17,5,3,1,3,1,Excellent,No
+Master,High,1,1222,2356,3,8,6,4,0,2,2,Excellent,No
+Bachelor,Medium,1,341,2800,6,5,3,2,0,2,3,Excellent,Yes
+Bachelor,High,4,868,11836,5,28,2,0,2,2,3,Excellent,No
+Bachelor,Medium,3,672,10903,3,16,13,10,4,8,2,Excellent,No
+College,High,1,1231,2973,5,10,5,4,0,0,3,Excellent,No
+Master,High,4,102,14275,6,33,12,9,3,8,0,Excellent,No
+Bachelor,High,2,422,5562,4,12,5,2,2,2,2,Excellent,No
+College,High,2,249,4537,0,8,7,6,7,7,2,Outstanding,No
+College,High,3,1252,7642,1,10,10,0,0,9,2,Excellent,No
+Master,High,4,881,17924,1,31,31,6,14,7,3,Excellent,No
+Bachelor,Medium,2,1383,5204,8,13,5,4,0,4,2,Excellent,No
+College,High,1,1075,2277,3,7,4,3,0,3,4,Excellent,No
+Master,High,1,374,2795,1,1,1,0,0,1,2,Outstanding,Yes
+Below College,Medium,1,1086,2532,6,8,4,3,0,3,5,Excellent,No
+College,High,1,661,2559,1,8,8,7,7,1,0,Excellent,No
+Master,High,2,821,4908,1,4,4,2,0,2,3,Excellent,No
+Below College,Medium,1,781,2380,9,3,1,0,0,0,3,Excellent,Yes
+Bachelor,High,2,177,4765,4,4,1,0,0,0,2,Outstanding,No
+Bachelor,Medium,1,500,2044,1,2,2,2,0,2,3,Excellent,Yes
+Below College,High,1,1427,2693,1,1,1,0,0,0,3,Excellent,Yes
+Below College,High,2,1425,6586,0,17,16,8,4,11,2,Excellent,No
+Master,Medium,1,1454,3294,1,3,3,2,1,2,3,Excellent,No
+Below College,High,2,617,4171,0,4,3,2,0,2,3,Excellent,Yes
+Master,Low,1,1085,2778,4,10,7,7,1,0,1,Excellent,Yes
+Bachelor,High,1,995,2377,5,6,2,2,2,2,2,Excellent,No
+Bachelor,High,1,1122,2404,7,8,2,2,2,2,2,Outstanding,Yes
+Bachelor,High,1,618,2318,1,1,1,1,0,0,2,Excellent,No
+Bachelor,High,1,546,2008,1,1,1,0,1,0,3,Excellent,No
+College,Medium,2,462,6244,7,10,5,4,0,3,6,Excellent,No
+Master,Medium,1,1198,2799,3,6,3,2,0,2,1,Excellent,No
+Bachelor,Medium,3,1272,10552,2,24,6,0,0,4,3,Excellent,No
+Master,Medium,1,154,2329,3,13,7,7,5,2,2,Excellent,No
+Below College,High,2,1137,4014,1,10,10,6,0,7,2,Outstanding,No
+College,High,3,527,7403,4,29,26,9,1,7,3,Excellent,No
+Master,High,1,1469,2259,4,13,0,0,0,0,2,Excellent,No
+College,High,2,1188,6932,1,9,9,8,0,0,2,Excellent,No
+Master,High,1,188,4678,2,8,6,2,0,1,6,Excellent,No
+Bachelor,High,3,1333,13582,1,15,15,12,5,11,3,Excellent,No
+Bachelor,Medium,1,1184,2332,6,5,3,0,0,2,3,Outstanding,No
+College,Medium,1,867,2413,1,1,1,0,0,0,2,Excellent,Yes
+Master,Medium,3,658,9705,2,11,1,0,0,0,2,Excellent,No
+Bachelor,Medium,2,1283,4294,1,7,7,7,0,7,2,Excellent,No
+Bachelor,High,1,263,4721,2,20,18,13,2,17,3,Excellent,No
+Master,High,1,938,2519,4,16,11,8,3,9,6,Outstanding,No
+Bachelor,Medium,1,419,2121,1,1,1,0,0,0,3,Excellent,Yes
+Bachelor,High,1,129,2973,1,1,1,0,0,0,2,Excellent,Yes
+Bachelor,High,2,616,5855,0,10,9,7,8,5,2,Excellent,No
+Master,High,1,1469,3617,8,3,1,1,0,0,2,Excellent,No
+Master,High,2,498,6725,1,8,8,7,6,3,2,Excellent,No
+Below College,Medium,3,530,10325,1,16,16,7,3,7,6,Excellent,Yes
+Bachelor,Medium,2,1069,6949,0,6,5,0,1,4,3,Excellent,No
+Master,Medium,3,625,10609,5,17,14,1,11,7,2,Excellent,Yes
+College,High,2,805,4447,1,9,9,7,0,8,5,Excellent,No
+Bachelor,High,1,1404,2157,1,3,3,1,0,2,5,Excellent,No
+Bachelor,High,2,1219,4601,1,5,5,2,1,0,3,Excellent,No
+College,High,4,1053,17099,2,26,9,8,7,8,2,Excellent,No
+Bachelor,High,1,289,2479,4,7,1,0,0,0,4,Outstanding,Yes
+College,High,4,1376,14852,6,22,17,13,15,2,3,Excellent,No
+College,High,3,231,7264,5,10,8,4,7,7,2,Excellent,No
+Bachelor,High,2,152,5666,1,6,5,3,1,3,1,Excellent,No
+Master,High,3,882,7823,6,12,10,9,0,8,2,Excellent,No
+Doctor,Very High,3,903,7880,0,9,8,7,0,7,3,Excellent,No
+Bachelor,Very High,4,1479,13194,4,22,1,0,0,0,2,Excellent,Yes
+Master,Very High,2,1379,5067,1,20,19,10,2,7,3,Excellent,No
+Master,High,2,1229,5079,4,12,7,7,0,7,3,Excellent,No
+College,Medium,1,335,2321,0,4,3,2,1,2,0,Outstanding,Yes
+Bachelor,High,4,722,17444,1,10,10,8,6,0,2,Excellent,No
+Bachelor,Medium,1,906,2404,6,3,0,0,0,0,5,Outstanding,Yes
+Below College,High,1,461,3452,3,5,3,2,0,2,4,Excellent,No
+Master,High,1,974,2270,3,8,5,3,0,2,2,Excellent,No
+College,High,4,1126,17399,9,32,5,4,1,3,1,Outstanding,No
+Master,Very High,2,827,5488,1,6,6,5,1,2,2,Excellent,No
+Bachelor,High,5,840,19419,2,21,18,16,0,11,2,Excellent,No
+Master,High,1,1134,2811,9,4,2,2,2,2,2,Excellent,No
+College,High,2,248,3633,1,9,9,8,0,8,2,Excellent,No
+College,High,2,955,4163,1,9,9,0,0,7,0,Excellent,No
+Bachelor,High,1,138,2132,4,7,5,2,0,1,2,Excellent,Yes
+Bachelor,High,4,939,13973,3,22,12,11,1,5,2,Excellent,No
+Below College,High,1,1391,2684,0,3,2,1,0,2,0,Excellent,No
+College,High,3,566,10845,6,13,8,7,0,7,3,Excellent,No
+Below College,Medium,2,1206,4377,1,5,4,2,3,2,6,Excellent,No
+Master,Medium,1,622,3743,1,5,4,2,0,2,2,Outstanding,Yes
+Below College,High,2,853,4148,1,4,4,3,0,3,1,Excellent,No
+College,High,1,287,1051,1,0,0,0,0,0,2,Excellent,No
+Bachelor,High,3,1441,10739,8,22,10,7,0,8,2,Excellent,No
+Master,High,3,583,10388,1,16,16,10,10,1,3,Excellent,No
+College,Very High,3,153,11416,0,9,8,7,1,7,4,Excellent,No
+Bachelor,Medium,1,1097,2600,1,1,1,0,0,0,2,Excellent,Yes
+Bachelor,High,1,109,2422,0,4,3,2,1,2,3,Excellent,Yes
+College,Very High,2,1066,5472,1,8,8,7,1,3,2,Excellent,No
+Below College,Low,1,217,2451,1,4,4,3,1,1,3,Excellent,No
+Bachelor,Medium,2,277,4240,2,19,2,2,2,2,0,Excellent,No
+Master,Medium,3,1355,10999,7,27,15,11,4,8,3,Excellent,No
+College,High,2,549,5003,6,8,2,2,2,1,6,Excellent,No
+Below College,Medium,4,466,12742,1,21,21,6,11,8,3,Excellent,No
+Master,High,2,1055,4227,0,4,3,2,2,2,2,Excellent,No
+Bachelor,High,1,802,3917,1,3,3,2,1,2,4,Outstanding,No
+College,High,5,265,18303,6,21,1,0,0,0,3,Excellent,No
+Bachelor,High,1,804,2380,4,8,1,0,0,0,5,Excellent,No
+Bachelor,Medium,4,715,13726,3,30,5,3,4,3,4,Excellent,No
+College,Low,2,1141,4777,5,15,1,0,0,0,2,Excellent,Yes
+Master,High,2,135,6385,3,17,8,7,6,7,3,Excellent,No
+Below College,Low,5,247,19973,1,21,21,16,5,10,3,Outstanding,No
+Master,High,2,1035,6861,8,19,1,0,0,0,1,Excellent,No
+College,Low,2,265,4969,8,7,2,2,2,2,6,Excellent,Yes
+Below College,Low,5,266,19845,1,33,32,14,6,9,3,Excellent,Yes
+Bachelor,Very High,4,1448,13320,3,23,12,11,11,11,2,Excellent,No
+Bachelor,High,2,145,6347,0,19,18,7,0,13,3,Excellent,No
+Master,Very High,1,885,2743,1,18,17,13,15,14,1,Excellent,Yes
+Bachelor,High,3,945,10880,1,21,21,6,2,8,2,Excellent,No
+Below College,Medium,1,1038,2342,0,3,2,2,2,2,2,Excellent,No
+College,High,4,1234,17650,3,26,9,3,1,1,4,Excellent,No
+Master,High,1,1109,4025,9,10,8,7,7,7,2,Excellent,No
+Master,Very High,2,216,9725,0,16,15,1,0,9,2,Excellent,No
+College,High,3,1089,11904,3,14,6,4,0,4,1,Excellent,No
+Master,High,1,788,2177,1,6,6,3,0,4,3,Excellent,No
+Bachelor,Medium,3,124,7525,2,30,15,7,6,12,2,Excellent,No
+Bachelor,High,2,660,4834,7,9,1,0,0,0,3,Excellent,Yes
+Bachelor,High,1,342,2042,6,6,3,2,1,2,2,Excellent,Yes
+Master,High,1,1333,2220,1,1,1,1,0,0,2,Excellent,No
+Below College,High,1,1144,1052,1,1,1,0,0,0,5,Outstanding,No
+Master,High,1,1186,2821,3,8,2,2,2,2,2,Excellent,No
+Master,High,5,1464,19237,2,29,8,1,7,7,2,Excellent,No
+Bachelor,High,2,124,4107,3,8,4,3,0,1,3,Excellent,No
+Bachelor,High,2,300,8396,1,8,7,7,7,5,3,Excellent,No
+Below College,Medium,1,921,2007,1,5,5,3,1,3,5,Excellent,No
+Master,High,5,430,19627,9,23,2,2,2,2,0,Excellent,No
+Master,Medium,3,1082,10686,6,13,9,4,7,0,4,Excellent,No
+Bachelor,High,1,1240,2942,2,18,5,4,0,3,4,Excellent,No
+Doctor,Medium,3,796,8858,0,15,14,8,7,8,2,Excellent,No
+Below College,Medium,4,444,16756,7,31,9,7,6,2,3,Excellent,No
+Bachelor,Medium,3,415,10798,5,18,1,0,0,0,5,Excellent,No
+Bachelor,High,1,769,2323,1,2,2,2,0,2,3,Excellent,Yes
+Bachelor,Medium,1,1334,1416,1,1,1,0,1,0,6,Excellent,Yes
+Master,Medium,2,1003,4615,8,19,16,13,1,7,2,Outstanding,No
+Master,High,1,1323,2461,9,18,10,0,2,7,2,Excellent,Yes
+College,Medium,3,1366,8722,1,10,10,7,1,9,2,Excellent,Yes
+College,Medium,1,192,3955,1,6,5,3,1,3,2,Excellent,No
+Bachelor,High,2,1176,9957,0,7,6,2,0,2,1,Excellent,No
+College,Very High,1,509,3376,1,10,10,6,0,8,3,Excellent,No
+Below College,Medium,3,330,8823,0,20,19,9,1,9,4,Excellent,No
+Master,High,3,1492,10322,4,14,11,10,11,1,6,Outstanding,No
+Doctor,Low,1,1277,4621,1,3,3,2,1,2,4,Excellent,No
+Below College,High,3,1091,10976,3,23,3,2,1,2,4,Excellent,No
+Bachelor,High,2,857,3660,3,10,8,7,1,7,4,Excellent,No
+College,Medium,3,1376,10482,9,24,20,6,3,6,1,Excellent,Yes
+Bachelor,Medium,3,654,7119,4,9,3,2,1,2,2,Excellent,No
+Bachelor,High,3,1204,9582,0,9,8,7,4,7,2,Outstanding,Yes
+Master,Medium,2,827,4508,1,14,13,7,3,8,4,Outstanding,Yes
+College,High,1,895,2207,1,4,4,2,2,2,5,Excellent,No
+Below College,High,2,618,7756,0,7,6,2,0,4,1,Excellent,No
+Master,Medium,2,309,6694,2,8,1,0,0,0,5,Excellent,No
+Below College,High,1,1219,3691,1,7,7,7,5,6,3,Excellent,Yes
+Bachelor,High,1,1330,2377,1,1,1,1,0,0,0,Outstanding,Yes
+Bachelor,Medium,1,1017,2313,4,5,2,2,2,2,0,Outstanding,Yes
+College,High,4,469,17665,0,23,22,6,13,7,3,Excellent,No
+Bachelor,Medium,1,1009,2596,1,1,1,0,0,0,2,Excellent,Yes
+Master,High,2,959,4728,3,5,0,0,0,0,4,Excellent,Yes
+Bachelor,High,2,970,4302,0,4,3,2,0,2,3,Excellent,No
+Master,Medium,1,697,2979,3,6,0,0,0,0,2,Excellent,No
+Master,Very High,4,1262,16885,2,27,5,4,2,1,3,Outstanding,No
+Master,Medium,2,1050,5593,1,15,15,10,4,12,2,Excellent,No
+Master,High,3,994,10445,7,18,8,6,4,0,4,Excellent,No
+Master,Medium,3,770,8740,0,9,8,7,2,7,2,Excellent,No
+Master,High,1,1107,2514,4,11,7,5,1,7,1,Outstanding,No
+Bachelor,High,3,950,7655,0,10,9,7,1,7,3,Excellent,No
+Below College,High,4,406,17465,3,23,12,9,4,9,3,Excellent,No
+College,High,3,130,7351,7,10,1,0,0,0,2,Excellent,No
+Bachelor,High,3,1082,10820,8,18,8,7,0,1,1,Excellent,No
+Bachelor,High,4,203,12169,7,21,18,7,11,5,4,Excellent,Yes
+Bachelor,Medium,5,1308,19626,1,21,20,7,4,9,2,Excellent,No
+Below College,Medium,1,984,2070,1,2,2,2,2,2,6,Excellent,No
+Bachelor,High,2,439,6782,9,9,5,4,0,3,2,Excellent,No
+Master,High,2,217,7779,2,18,11,9,0,9,0,Outstanding,No
+Bachelor,Very High,1,793,2791,0,3,2,2,2,2,4,Excellent,No
+Below College,Medium,1,1451,3201,0,6,5,3,0,4,2,Excellent,No
+College,High,2,1182,4968,1,5,5,2,0,2,3,Excellent,No
+Master,Medium,4,174,13120,6,22,9,8,2,3,3,Excellent,No
+College,High,2,1003,4033,2,5,3,2,0,2,3,Excellent,No
+Bachelor,High,1,490,3291,0,8,7,5,1,1,2,Excellent,No
+Bachelor,Low,2,188,4272,4,16,1,0,0,0,3,Excellent,No
+Below College,Medium,2,718,5056,1,10,10,7,1,2,2,Excellent,No
+Bachelor,Very High,1,433,2844,1,7,7,6,5,0,2,Excellent,No
+Bachelor,Medium,1,773,2703,1,3,3,1,0,2,2,Excellent,No
+Below College,High,1,247,1904,1,0,0,0,0,0,0,Excellent,Yes
+Master,High,2,603,8224,0,6,5,2,0,3,3,Excellent,Yes
+Master,High,1,167,4766,3,6,1,0,0,0,4,Excellent,No
+Bachelor,High,1,874,2610,1,2,2,2,2,2,5,Excellent,Yes
+College,Medium,2,367,5731,7,9,6,2,1,3,2,Excellent,No
+Bachelor,Medium,1,199,2539,1,4,4,2,2,2,0,Excellent,No
+Below College,High,2,1400,5714,1,6,6,5,1,3,3,Outstanding,No
+Master,High,1,528,4323,1,6,5,4,1,4,2,Excellent,No
+Below College,Medium,3,408,7336,1,11,11,8,3,10,3,Excellent,Yes
+Master,High,3,593,13499,9,20,18,7,2,13,3,Excellent,No
+Bachelor,High,4,481,13758,0,22,21,9,13,14,2,Excellent,Yes
+Master,High,2,647,5155,7,9,6,4,1,5,3,Excellent,No
+Master,Medium,1,982,2258,6,10,8,0,1,7,2,Excellent,No
+Bachelor,High,1,477,3597,8,6,4,3,1,2,2,Outstanding,No
+Below College,High,1,1485,2515,1,1,1,1,0,0,4,Excellent,Yes
+Master,Very High,1,1384,4420,1,8,8,7,0,7,2,Outstanding,No
+Bachelor,Medium,2,852,6578,1,10,10,3,1,4,3,Excellent,No
+College,Medium,2,902,4422,3,16,1,1,0,0,3,Excellent,No
+Bachelor,Medium,3,819,10274,2,15,7,7,6,4,2,Excellent,No
+Bachelor,Medium,2,669,5343,0,14,13,9,4,9,3,Outstanding,No
+Master,Medium,1,636,2376,1,2,2,2,2,2,2,Excellent,No
+Bachelor,Low,2,1372,5346,8,7,4,3,1,3,2,Excellent,Yes
+Below College,High,1,862,2827,1,1,1,0,0,0,3,Excellent,No
+Master,High,5,718,19943,4,28,5,2,4,2,2,Excellent,No
+Below College,High,1,1401,3131,1,10,10,8,0,8,5,Excellent,No
+College,High,1,645,2552,1,1,1,1,0,0,4,Outstanding,No
+Bachelor,High,1,1457,4477,4,7,3,2,0,2,2,Excellent,No
+Bachelor,Medium,2,977,6474,1,14,14,8,3,11,2,Excellent,No
+Bachelor,Medium,1,805,3033,1,2,2,2,1,2,2,Excellent,No
+Master,High,1,1097,2936,1,6,6,4,0,2,4,Excellent,Yes
+College,High,5,1223,18606,3,26,7,7,4,7,6,Excellent,No
+Below College,Low,1,942,2168,0,6,5,4,1,3,2,Excellent,No
+Master,Medium,1,1256,2853,0,1,0,0,0,0,5,Excellent,Yes
+Bachelor,High,4,1402,17048,8,28,26,15,15,9,2,Outstanding,No
+Bachelor,Low,1,111,2290,2,6,0,0,0,0,3,Excellent,No
+Bachelor,High,1,147,3600,1,5,5,4,1,4,2,Excellent,No
+College,Medium,1,906,2107,6,5,1,0,0,0,2,Excellent,Yes
+Master,High,2,1329,4115,8,8,4,3,0,3,3,Excellent,No
+Master,High,2,1184,4327,5,5,0,0,0,0,2,Excellent,No
+Bachelor,High,4,1421,17856,2,32,2,2,2,2,3,Outstanding,No
+Master,Medium,1,1179,3196,1,6,6,5,3,3,2,Excellent,No
+College,High,5,1450,19081,5,25,4,2,0,3,2,Excellent,No
+Master,High,2,1361,8966,3,15,7,7,1,7,2,Excellent,No
+College,High,1,984,2210,1,1,1,0,0,0,3,Excellent,Yes
+Bachelor,High,2,1146,4539,1,10,10,7,0,1,3,Excellent,No
+Master,Low,1,917,2741,1,7,7,7,1,7,4,Excellent,No
+Master,High,2,853,3491,1,10,10,7,8,9,4,Excellent,No
+Master,High,2,200,4541,1,20,20,11,13,17,3,Outstanding,No
+Bachelor,Very High,1,654,2678,1,2,2,1,2,2,2,Excellent,No
+Master,High,2,150,7379,2,12,6,3,1,4,3,Excellent,No
+Doctor,Very High,2,179,6272,7,10,4,3,0,3,3,Excellent,No
+Master,Very High,2,696,5220,0,12,11,7,1,9,3,Excellent,No
+Bachelor,Medium,1,116,2743,1,2,2,2,2,2,2,Outstanding,No
+College,High,2,1316,4998,4,10,8,7,0,7,2,Excellent,No
+Bachelor,Low,3,363,10252,2,17,7,7,7,7,2,Outstanding,No
+Bachelor,High,1,117,2781,0,15,14,10,4,10,5,Excellent,No
+Bachelor,Medium,2,107,6852,7,7,5,1,1,3,2,Excellent,No
+Master,High,2,1356,4950,0,5,4,3,1,1,4,Excellent,No
+Bachelor,High,1,1465,3579,0,12,11,9,5,7,2,Outstanding,No
+Doctor,High,3,458,13191,3,20,1,0,0,0,6,Excellent,No
+College,Medium,3,1212,10377,4,16,13,2,4,12,6,Excellent,No
+Bachelor,High,1,1103,2235,1,9,9,7,6,8,3,Excellent,No
+Master,High,3,966,10502,7,33,5,4,1,4,2,Excellent,No
+Below College,Very High,1,1117,2011,1,10,10,5,7,7,5,Excellent,No
+Bachelor,Medium,1,504,1859,1,1,1,1,0,0,2,Outstanding,Yes
+Bachelor,High,1,1010,3760,1,3,3,2,1,2,5,Excellent,No
+Bachelor,High,4,685,17779,3,36,10,9,0,9,2,Excellent,No
+College,High,2,1332,6833,1,6,6,5,0,1,2,Excellent,No
+Bachelor,Medium,2,1062,6812,1,10,10,9,1,8,2,Excellent,No
+Bachelor,Medium,2,326,5171,5,13,6,1,0,5,2,Excellent,No
+Bachelor,Low,5,920,19740,3,25,8,7,0,7,2,Excellent,No
+College,Medium,5,1098,18711,2,23,1,0,0,0,2,Excellent,No
+Bachelor,High,1,469,3692,1,12,11,10,0,7,2,Excellent,No
+College,Very High,1,969,2559,5,7,1,0,0,0,4,Excellent,No
+College,High,1,1167,2517,1,5,5,3,0,3,2,Excellent,No
+Bachelor,High,2,1329,6623,1,6,6,0,1,0,2,Excellent,No
+Bachelor,Medium,5,715,18265,6,25,1,0,0,0,3,Excellent,No
+Bachelor,Medium,4,694,16124,3,9,7,7,1,7,2,Excellent,No
+Bachelor,Very High,1,1320,2585,0,2,1,0,0,0,5,Excellent,No
+Bachelor,High,5,1099,18213,7,26,22,9,3,10,5,Excellent,No
+Doctor,Very High,3,536,8380,0,10,9,8,0,8,3,Excellent,No
+Bachelor,Very High,1,265,2994,1,1,1,0,0,1,2,Excellent,No
+College,High,1,373,1223,1,1,1,0,0,1,2,Outstanding,No
+Below College,Low,1,599,1118,1,1,1,0,1,0,4,Excellent,Yes
+College,High,1,583,2875,1,8,8,5,2,2,2,Outstanding,No
+Bachelor,Low,5,1449,18824,2,26,24,10,1,11,2,Excellent,Yes
+Below College,Medium,4,177,13577,1,34,33,9,15,0,3,Excellent,No
+College,Medium,1,251,2625,1,2,2,2,2,2,2,Outstanding,Yes
+College,Medium,5,168,18789,2,26,11,4,0,8,2,Excellent,No
+Bachelor,High,2,131,4538,0,4,3,2,0,2,3,Excellent,No
+Bachelor,High,5,237,19847,4,31,29,10,11,10,5,Outstanding,No
+Master,High,3,1429,10512,6,25,9,7,5,4,6,Excellent,No
+Bachelor,High,2,135,4444,4,15,11,8,5,10,2,Excellent,No
+Master,High,1,791,2154,0,5,4,2,0,2,2,Excellent,No
+College,Very High,5,1199,19190,1,26,25,9,14,13,4,Excellent,No
+Bachelor,Medium,2,648,4490,4,14,10,9,1,8,5,Excellent,No
+Below College,High,1,735,3506,0,4,3,2,2,2,3,Excellent,No
+Master,Very High,2,603,2372,6,18,1,0,0,0,2,Excellent,No
+Master,Medium,3,531,10231,3,23,21,7,15,17,3,Excellent,No
+Master,High,2,429,5410,9,18,16,14,5,12,2,Excellent,No
+Bachelor,High,3,621,7978,1,10,10,7,0,5,2,Excellent,Yes
+Bachelor,Medium,1,193,3867,1,2,2,2,2,2,2,Excellent,No
+College,Medium,1,968,2838,0,8,7,0,7,7,6,Excellent,No
+College,High,2,879,4695,7,10,8,4,1,7,3,Excellent,No
+Bachelor,High,1,806,3339,3,10,7,7,7,7,2,Excellent,Yes
+Bachelor,High,1,640,2080,2,5,3,2,1,2,2,Excellent,No
+Bachelor,High,1,266,2096,1,2,2,2,2,1,3,Excellent,No
+Bachelor,Very High,2,604,6209,1,10,10,7,0,8,4,Excellent,No
+Bachelor,High,5,364,18061,3,22,0,0,0,0,4,Outstanding,No
+Master,Medium,4,412,17123,6,21,19,9,15,2,4,Excellent,No
+Master,High,1,848,2372,1,2,2,2,2,2,3,Excellent,No
+College,High,2,1089,4883,1,10,10,4,1,1,3,Excellent,Yes
+Bachelor,High,1,360,3904,0,6,5,2,0,3,2,Excellent,Yes
+Bachelor,Medium,2,1138,4627,0,10,9,2,6,7,6,Excellent,No
+Master,High,3,325,7094,3,10,7,7,1,7,0,Excellent,No
+College,High,1,991,3423,6,10,7,6,5,7,3,Excellent,No
+Bachelor,Low,2,1476,6674,0,10,9,8,7,5,6,Excellent,No
+Bachelor,High,4,1322,16880,4,25,3,2,1,2,2,Excellent,No
+Master,Medium,3,299,9094,2,9,5,4,1,0,2,Excellent,Yes
+Bachelor,High,3,1030,8446,9,10,8,7,7,7,2,Excellent,Yes
+Master,High,3,634,11916,1,9,9,1,0,8,2,Outstanding,No
+College,High,2,524,4534,0,9,8,7,1,7,6,Excellent,No
+Master,High,3,587,9852,1,10,10,8,9,6,5,Excellent,No
+College,Low,2,256,6151,1,19,19,2,11,9,4,Excellent,No
+Bachelor,High,1,1060,2302,1,3,3,2,2,2,2,Excellent,Yes
+Bachelor,High,1,935,2362,4,10,3,2,1,2,4,Excellent,Yes
+Below College,High,4,495,17861,0,21,20,8,2,10,3,Excellent,No
+College,Low,5,282,19187,4,23,19,9,9,11,5,Excellent,No
+Master,High,5,206,19717,6,36,7,3,7,7,4,Excellent,No
+College,High,1,458,3544,9,6,4,2,0,0,0,Excellent,No
+Bachelor,High,3,943,8500,0,10,9,7,1,6,0,Excellent,No
+Bachelor,High,2,523,4661,1,9,9,8,8,8,4,Excellent,No
+Bachelor,High,2,1018,4103,0,10,9,3,1,7,2,Excellent,No
+Master,High,2,482,4249,1,9,9,6,1,1,3,Excellent,No
+Bachelor,High,4,770,14026,1,33,33,9,0,10,2,Excellent,No
+College,High,2,1009,6893,3,11,7,7,1,7,3,Excellent,No
+College,High,2,507,6125,1,10,10,8,9,6,6,Excellent,No
+Below College,High,1,882,3669,3,7,3,2,1,2,6,Excellent,No
+Master,Medium,3,601,10008,7,31,10,9,5,9,0,Excellent,Yes
+Master,High,1,329,2387,3,7,4,2,0,3,3,Outstanding,No
+Bachelor,Very High,2,607,4639,2,17,15,7,6,13,2,Excellent,No
+Bachelor,High,3,855,7898,1,11,10,9,0,8,2,Excellent,No
+Bachelor,Very High,1,1291,2534,8,5,1,0,0,0,4,Excellent,No
+College,Medium,4,1405,13142,3,29,5,2,0,3,1,Excellent,No
+Bachelor,High,1,1124,1611,1,0,0,0,0,0,5,Excellent,No
+Bachelor,Medium,2,817,5363,0,10,9,7,0,0,0,Excellent,No
+Below College,Low,2,793,5071,3,8,6,2,0,0,3,Outstanding,No
+Master,Very High,4,267,13695,6,24,19,7,3,8,2,Excellent,Yes
+Bachelor,High,4,1369,13402,4,33,19,16,15,9,0,Excellent,No
+Below College,Medium,1,999,2029,1,5,5,4,0,0,2,Outstanding,No
+Below College,Very High,2,1202,6377,5,15,12,11,11,8,0,Outstanding,No
+Bachelor,High,2,285,5429,4,10,8,7,7,7,1,Excellent,No
+Bachelor,Medium,1,703,2785,7,3,1,0,0,0,3,Excellent,Yes
+Master,High,2,662,4614,0,5,4,2,3,2,0,Excellent,Yes
+Bachelor,Very High,1,693,2610,1,4,4,2,0,3,2,Excellent,No
+Master,High,2,404,6687,1,14,14,11,4,11,2,Excellent,No
+Bachelor,Medium,2,736,4724,1,5,5,3,0,4,0,Excellent,No
+Master,High,2,330,6179,1,10,10,2,6,7,3,Excellent,Yes
+Master,Medium,2,1498,6120,3,8,5,4,1,4,2,Excellent,No
+Bachelor,High,3,541,10596,2,14,4,2,3,2,5,Excellent,No
+Bachelor,High,2,1200,5467,3,12,6,2,3,3,4,Excellent,No
+Below College,High,1,1439,2996,7,8,6,4,1,3,2,Excellent,No
+Below College,High,2,1111,9998,6,8,5,4,1,2,2,Excellent,No
+Below College,High,2,499,4078,0,4,3,2,1,2,3,Excellent,No
+College,High,3,1485,10920,3,13,6,4,0,5,2,Outstanding,No
+Below College,Very High,2,1372,6232,2,6,3,2,1,2,3,Excellent,No
+College,Very High,4,322,13247,2,24,5,3,0,2,3,Excellent,No
+Bachelor,Medium,2,930,4081,1,20,20,7,1,8,3,Excellent,No
+Bachelor,Medium,2,205,5769,1,6,6,2,4,4,3,Excellent,No
+Master,High,1,135,2394,1,8,8,2,7,7,2,Excellent,Yes
+Below College,Medium,1,683,3904,0,5,4,3,1,1,2,Excellent,No
+Bachelor,High,4,1147,16799,0,21,20,7,0,9,5,Excellent,No
+Master,High,1,258,2950,9,12,5,4,0,4,2,Excellent,No
+Bachelor,High,1,1462,3629,4,8,3,2,0,2,6,Excellent,No
+College,High,3,200,9362,2,10,2,2,2,2,2,Excellent,No
+Bachelor,High,1,949,3229,4,7,3,2,0,2,2,Excellent,No
+Bachelor,Very High,1,652,3578,0,8,7,7,0,7,2,Excellent,No
+Bachelor,Medium,3,332,7988,1,10,10,9,0,9,3,Excellent,No
+College,Medium,2,1475,4284,3,20,4,3,1,3,2,Outstanding,Yes
+Below College,High,3,337,7553,0,9,8,7,7,7,1,Excellent,Yes
+Bachelor,High,4,971,17328,6,29,20,7,12,7,3,Excellent,No
+Bachelor,High,5,1055,19701,3,32,9,8,1,5,3,Outstanding,No
+Master,Very High,4,1136,14732,2,31,7,7,0,0,4,Excellent,No
+Master,High,2,1174,9278,3,15,5,4,0,1,3,Excellent,No
+Master,Low,1,667,1359,1,1,1,0,0,0,3,Excellent,Yes
+Master,High,2,855,4779,7,8,3,2,0,2,3,Excellent,No
+Doctor,High,4,182,16422,3,9,3,2,1,0,3,Excellent,No
+Master,High,1,560,2996,5,10,4,3,1,3,2,Excellent,No
+Bachelor,Medium,1,202,1261,1,1,1,0,0,0,3,Excellent,Yes
+Below College,High,1,1377,2099,0,6,5,0,1,4,3,Excellent,No
+Master,Medium,2,172,5810,1,10,10,4,1,8,2,Excellent,No
+Master,Medium,2,329,5647,4,11,3,2,0,2,3,Excellent,No
+Bachelor,High,1,465,3420,7,17,6,5,1,2,2,Excellent,No
+College,Medium,1,383,4400,3,6,3,2,2,2,2,Excellent,Yes
+College,Very High,1,1413,3500,0,7,6,5,1,3,2,Excellent,No
+College,High,1,1255,2066,2,5,3,2,1,0,3,Outstanding,No
+Master,High,4,359,17169,3,26,20,17,5,6,2,Excellent,No
+Below College,High,2,1476,4162,1,5,5,4,0,3,3,Excellent,No
+Doctor,High,2,601,9204,4,7,4,3,0,3,3,Excellent,No
+Bachelor,Medium,1,401,3294,5,7,5,4,0,2,2,Excellent,No
+Doctor,Very High,1,1283,2127,2,7,4,2,0,3,5,Excellent,No
+Master,High,2,663,3975,3,11,8,7,0,7,2,Excellent,No
+College,High,3,326,10793,1,13,13,7,9,9,5,Excellent,No
+Bachelor,High,3,377,10096,4,28,7,7,4,3,1,Excellent,Yes
+Bachelor,Medium,1,592,3646,2,11,1,0,0,0,2,Outstanding,Yes
+Doctor,Very High,3,1445,7446,1,10,10,8,4,7,2,Excellent,Yes
+Bachelor,Low,3,1038,10851,2,24,7,7,0,7,2,Excellent,No
+College,Very High,1,1398,2109,9,8,3,2,0,2,3,Excellent,No
+Bachelor,High,1,523,3722,6,7,2,2,2,2,2,Excellent,Yes
+Bachelor,High,3,1448,9380,4,10,3,1,1,2,4,Excellent,No
+Bachelor,High,2,1221,5486,4,15,2,2,2,2,3,Excellent,No
+Master,High,1,1107,2742,1,2,2,2,2,2,0,Excellent,Yes
+Below College,Medium,3,218,13757,2,16,9,8,4,8,5,Excellent,No
+Bachelor,High,2,866,8463,0,6,5,4,1,3,4,Excellent,No
+Bachelor,Medium,1,981,3162,3,7,5,2,0,3,5,Excellent,No
+Bachelor,Very High,4,447,16598,4,35,9,8,8,8,2,Excellent,No
+Master,High,2,1495,6651,2,20,3,2,1,2,0,Excellent,No
+Bachelor,High,1,896,2345,2,8,3,1,1,2,3,Excellent,No
+Bachelor,High,1,1467,3420,1,6,5,2,1,3,3,Excellent,No
+Bachelor,High,2,430,4373,0,5,4,3,0,3,2,Excellent,No
+Bachelor,Low,2,1326,4759,3,15,13,9,3,12,2,Excellent,No
+Below College,High,2,1358,5301,8,4,2,1,2,2,2,Excellent,No
+College,High,1,748,3673,1,12,12,9,5,8,3,Excellent,No
+Doctor,High,2,383,4768,7,11,1,0,0,0,4,Excellent,No
+Bachelor,High,1,990,1274,1,1,1,0,0,0,2,Excellent,No
+College,Very High,2,405,4900,0,13,12,9,2,8,2,Outstanding,No
+Master,High,3,1490,10466,3,29,8,7,0,7,3,Excellent,No
+Bachelor,High,4,829,17007,7,16,14,8,6,9,3,Excellent,No
+Bachelor,High,1,1496,2909,3,5,3,2,1,2,3,Excellent,Yes
+Bachelor,High,2,115,5765,5,7,5,3,0,0,4,Excellent,Yes
+Master,Medium,2,790,4599,0,16,15,9,10,10,2,Outstanding,Yes
+Below College,High,1,660,2404,1,1,1,0,0,0,3,Excellent,No
+Bachelor,High,1,381,3172,2,4,0,0,0,0,2,Excellent,Yes
+College,High,1,830,2033,1,1,1,0,0,0,2,Excellent,No
+Below College,High,3,1193,10209,5,16,2,2,2,2,2,Excellent,No
+Bachelor,Medium,2,1246,8620,1,10,10,7,0,4,3,Excellent,No
+Bachelor,High,1,330,2064,0,6,5,3,1,3,3,Outstanding,No
+Master,High,2,1229,4035,0,4,3,2,1,2,2,Excellent,No
+Master,Medium,1,1099,3838,8,8,5,4,0,2,5,Excellent,No
+Bachelor,High,2,571,4591,3,11,5,4,1,2,4,Excellent,No
+College,Medium,1,289,2561,7,8,0,0,0,0,2,Excellent,Yes
+Bachelor,Medium,1,1423,1563,1,1,1,0,0,0,2,Excellent,No
+Bachelor,High,2,467,4898,0,5,4,2,1,3,5,Excellent,No
+College,Medium,2,271,4789,4,10,3,2,1,2,3,Outstanding,No
+Below College,High,1,410,3180,0,4,3,2,0,2,3,Excellent,No
+Below College,Low,2,1083,6549,1,8,8,6,1,7,2,Excellent,No
+Doctor,High,2,516,6388,2,14,0,0,0,0,6,Excellent,No
+Bachelor,High,3,495,11244,2,10,5,2,0,0,5,Outstanding,No
+Master,High,4,1050,16032,3,26,14,9,1,12,2,Outstanding,No
+Master,Medium,1,224,2362,6,11,9,7,0,7,2,Excellent,Yes
+Bachelor,High,4,136,16328,3,24,20,6,14,17,1,Excellent,No
+Bachelor,High,3,1089,8376,4,9,2,0,2,2,3,Excellent,No
+Bachelor,High,4,228,16606,8,23,13,12,5,1,2,Excellent,No
+Bachelor,Medium,3,1029,8606,1,11,11,8,3,3,3,Excellent,No
+Below College,High,2,507,2272,0,5,4,3,1,2,2,Excellent,No
+Master,High,1,676,2018,3,15,5,4,1,0,3,Excellent,Yes
+Bachelor,Medium,3,971,7083,1,10,10,9,8,6,3,Excellent,No
+Bachelor,High,1,561,4084,1,7,7,2,7,7,2,Excellent,Yes
+Doctor,Low,4,333,14411,1,32,32,6,13,9,2,Excellent,No
+College,High,1,1440,2308,0,12,11,10,5,7,4,Outstanding,No
+Bachelor,Medium,1,1210,4841,4,4,1,0,0,0,3,Excellent,No
+Bachelor,High,2,674,4285,1,10,10,8,3,7,2,Excellent,No
+Below College,Low,2,441,9715,3,9,7,7,0,7,3,Excellent,No
+Bachelor,Medium,2,575,4320,1,5,5,3,0,2,2,Excellent,No
+Bachelor,High,1,950,2132,4,8,5,4,0,3,3,Outstanding,No
+Bachelor,High,3,288,10124,2,24,20,8,13,9,3,Excellent,No
+College,High,2,1342,5473,0,9,8,4,7,1,5,Excellent,No
+Master,High,2,589,5207,1,15,15,14,5,7,3,Excellent,No
+College,High,4,898,16437,1,21,21,7,7,7,2,Outstanding,No
+College,Medium,1,350,2296,0,2,1,1,0,0,3,Excellent,No
+College,High,2,1142,4069,3,8,2,2,2,2,2,Excellent,No
+Master,High,3,538,7441,1,10,10,8,7,7,4,Excellent,No
+Master,Medium,1,1402,2430,0,6,5,3,4,2,5,Outstanding,No
+College,Medium,2,824,5878,3,12,7,1,2,5,2,Excellent,No
+Master,High,1,1157,2644,3,7,3,2,1,2,3,Outstanding,No
+Master,High,2,492,6439,8,18,8,7,7,7,2,Excellent,No
+Bachelor,Very High,1,598,2451,6,5,1,0,0,0,2,Excellent,No
+Master,High,2,1242,6392,2,8,2,2,2,2,6,Excellent,No
+Bachelor,Medium,2,740,9714,1,10,10,8,6,7,4,Excellent,Yes
+Master,High,2,888,6077,3,10,6,3,1,2,2,Excellent,No
+Bachelor,Medium,1,992,2450,1,3,3,0,1,2,3,Excellent,No
+Master,High,3,1288,9250,3,9,4,2,1,3,3,Excellent,No
+Bachelor,High,1,104,2074,1,1,1,0,0,0,2,Excellent,Yes
+Doctor,Medium,3,607,10169,0,34,33,7,1,9,4,Excellent,Yes
+Bachelor,High,2,903,4855,4,7,5,2,1,4,2,Excellent,Yes
+Master,High,2,1200,4087,4,9,6,5,1,2,3,Excellent,No
+Master,High,1,1108,2367,8,10,8,2,7,6,3,Excellent,No
+Master,High,1,479,2972,1,1,1,0,0,0,4,Excellent,No
+Doctor,Medium,5,685,19586,1,36,36,6,2,13,3,Outstanding,No
+Master,High,2,1351,5484,9,9,2,2,2,1,3,Excellent,No
+Bachelor,High,1,474,2061,1,1,1,0,0,0,5,Outstanding,No
+Bachelor,High,2,1245,9924,0,10,9,8,7,7,3,Excellent,No
+Bachelor,High,2,437,4198,2,8,3,2,1,2,5,Excellent,No
+Master,High,2,884,6815,6,15,1,0,0,0,5,Excellent,No
+Below College,High,1,1370,4723,1,10,10,9,1,5,3,Excellent,No
+Master,High,2,670,6142,3,10,5,2,0,4,4,Excellent,No
+Bachelor,Very High,3,1462,8237,2,11,7,6,7,6,3,Excellent,No
+Below College,High,2,995,8853,1,6,6,4,1,3,0,Excellent,No
+Bachelor,High,5,264,19331,4,27,1,0,0,0,2,Excellent,No
+Bachelor,Very High,1,977,2073,2,4,2,2,2,2,2,Excellent,No
+Master,Very High,2,1302,5562,3,9,3,2,0,2,3,Excellent,No
+College,Medium,5,1059,19613,8,24,1,0,0,1,2,Outstanding,No
+Bachelor,Very High,2,750,3407,1,10,10,9,6,8,3,Excellent,No
+Master,Medium,2,653,5063,1,8,8,2,7,7,3,Excellent,No
+College,High,2,118,4639,1,5,5,4,1,2,2,Excellent,No
+Bachelor,Very High,1,990,4876,5,8,6,4,0,2,0,Excellent,No
+College,Medium,1,1349,2690,1,1,1,0,0,1,5,Excellent,No
+Master,Very High,4,563,17567,1,27,26,0,0,12,5,Excellent,No
+Bachelor,High,1,329,2408,1,1,1,1,0,0,3,Excellent,Yes
+College,Medium,1,457,2814,1,4,4,2,1,3,2,Excellent,No
+Doctor,High,4,1234,11245,2,32,30,8,12,13,3,Excellent,No
+Master,Very High,1,634,3312,3,6,3,2,0,2,3,Excellent,No
+Bachelor,High,5,1313,19049,0,23,22,7,1,10,4,Excellent,No
+Bachelor,Medium,1,241,2141,1,6,6,4,1,1,3,Excellent,No
+Doctor,Low,2,1015,5769,1,10,10,7,1,4,3,Excellent,No
+Bachelor,Medium,2,336,4385,1,10,10,7,4,5,2,Excellent,No
+Master,High,2,715,5332,7,10,5,2,0,3,3,Excellent,No
+Master,High,2,559,4663,9,7,3,2,1,1,2,Excellent,No
+Master,Very High,2,426,4724,1,9,9,7,7,2,3,Excellent,No
+Master,High,1,722,3211,1,10,9,6,1,4,3,Excellent,No
+Doctor,High,2,1387,5377,2,10,7,7,7,7,3,Excellent,No
+Bachelor,Medium,1,1302,4066,1,7,7,7,0,7,3,Excellent,No
+Doctor,Very High,2,819,5208,1,16,16,15,1,10,2,Excellent,No
+Bachelor,Low,2,580,4877,0,6,5,3,0,0,5,Outstanding,No
+Below College,High,1,546,3117,1,3,2,2,2,2,2,Excellent,No
+College,High,1,544,1569,1,0,0,0,0,0,2,Excellent,Yes
+Master,High,5,1176,19658,3,27,5,2,1,0,2,Excellent,No
+College,Medium,2,170,3069,0,11,10,8,0,7,3,Excellent,No
+Bachelor,Medium,3,884,10435,1,18,18,15,14,12,2,Excellent,No
+Master,High,2,208,4148,1,15,14,11,2,9,5,Excellent,No
+Bachelor,High,2,671,5768,3,9,4,3,0,2,2,Excellent,No
+Bachelor,High,2,711,5042,0,10,9,2,3,8,2,Excellent,No
+College,Medium,2,1329,5770,1,10,10,7,3,9,3,Excellent,No
+College,Medium,3,397,7756,3,10,5,4,0,2,6,Excellent,No
+Bachelor,Medium,3,737,10306,9,15,13,12,6,0,3,Excellent,Yes
+Bachelor,High,1,1470,3936,1,8,8,4,7,7,2,Excellent,No
+Bachelor,High,3,448,7945,6,18,4,2,3,3,2,Excellent,No
+Doctor,High,2,602,5743,4,14,10,7,0,2,3,Excellent,No
+Doctor,Medium,4,365,15202,2,23,2,2,2,2,3,Outstanding,No
+College,Low,2,763,5440,6,7,2,2,2,2,2,Excellent,Yes
+Below College,High,1,567,3760,1,6,6,3,1,3,2,Excellent,No
+Bachelor,Very High,1,486,3517,7,5,3,2,0,2,0,Excellent,No
+Bachelor,High,1,591,2580,2,6,4,2,1,2,0,Excellent,No
+Bachelor,High,1,1329,2166,3,10,4,2,0,3,3,Excellent,Yes
+Bachelor,Medium,2,469,5869,9,8,5,2,1,4,2,Excellent,No
+Master,High,3,711,8008,4,9,3,2,0,2,6,Excellent,No
+Below College,Very High,2,772,5206,1,7,7,7,0,7,6,Excellent,No
+Bachelor,High,2,492,5295,4,7,5,4,1,0,3,Outstanding,No
+Master,High,4,301,16413,3,27,4,2,1,2,2,Excellent,No
+Doctor,Medium,3,813,13269,5,19,14,11,1,11,3,Excellent,No
+Bachelor,High,1,1141,2783,1,2,2,2,2,2,3,Excellent,No
+Bachelor,High,2,1130,5433,1,11,11,8,7,9,2,Excellent,No
+Bachelor,High,1,311,2013,2,15,4,3,1,3,4,Excellent,No
+Below College,Medium,4,465,13966,2,30,15,11,2,12,3,Excellent,No
+Master,Medium,2,894,4374,0,4,3,2,1,2,6,Excellent,No
+College,Very High,2,1040,6842,6,13,5,4,0,4,3,Outstanding,No
+Doctor,High,4,584,17426,3,36,10,8,4,7,6,Outstanding,No
+College,Medium,4,1291,17603,1,14,14,10,6,11,3,Outstanding,No
+Master,High,2,880,4581,3,13,11,9,6,7,2,Outstanding,Yes
+Bachelor,High,2,1189,4735,7,19,13,11,2,9,4,Excellent,No
+Bachelor,Medium,2,991,4187,1,10,10,0,0,9,3,Excellent,No
+Master,High,2,392,5505,1,6,6,2,0,4,5,Excellent,No
+Bachelor,High,2,977,5470,0,10,9,5,1,6,4,Excellent,No
+Master,High,2,1112,5476,1,10,10,0,0,2,2,Excellent,No
+Bachelor,High,1,464,2587,4,17,2,2,2,2,2,Excellent,No
+Bachelor,Medium,1,148,2440,1,4,4,3,3,3,3,Outstanding,No
+Master,Very High,4,1225,15972,6,29,3,2,1,2,2,Excellent,No
+Bachelor,High,4,809,15379,4,23,8,7,0,0,2,Excellent,No
+College,High,3,1206,7082,3,21,2,0,0,2,2,Excellent,No
+Below College,High,1,727,2728,1,2,2,2,0,2,3,Excellent,No
+Bachelor,High,2,530,5368,1,7,6,5,1,2,2,Outstanding,No
+Master,High,2,1351,5347,6,10,3,2,0,2,2,Excellent,No
+Bachelor,High,1,528,3195,4,8,2,2,2,2,2,Excellent,No
+Below College,Medium,1,1320,3989,1,5,5,4,1,2,2,Excellent,Yes
+College,High,1,1495,3306,7,7,0,0,0,0,5,Excellent,No
+Master,Very High,3,1395,7005,3,11,4,3,1,2,2,Excellent,No
+College,High,1,708,2655,2,19,9,7,7,7,3,Excellent,Yes
+Master,High,1,1259,1393,1,1,1,0,0,0,2,Excellent,Yes
+Bachelor,High,1,786,2570,1,7,7,7,5,7,5,Outstanding,No
+Bachelor,Medium,1,1441,3537,5,8,4,2,1,2,1,Excellent,No
+College,Medium,2,1157,3986,1,15,15,10,4,13,3,Excellent,No
+Master,Low,3,370,10883,3,19,1,0,0,0,2,Outstanding,No
+Bachelor,Very High,1,267,2028,1,14,14,11,2,13,6,Excellent,No
+Master,Low,2,1278,9525,1,6,6,3,1,3,2,Excellent,No
+Bachelor,Medium,1,678,2929,1,10,10,9,8,7,3,Excellent,No
+Bachelor,High,1,427,2275,1,3,3,2,0,2,2,Outstanding,Yes
+Bachelor,Very High,3,921,7879,1,9,8,7,6,7,2,Excellent,No
+Master,Medium,1,146,4930,0,6,5,4,1,4,2,Excellent,No
+Bachelor,High,2,1179,7847,1,10,10,9,8,8,3,Excellent,No
+Bachelor,Very High,1,581,4401,1,5,5,3,0,4,1,Excellent,No
+Bachelor,High,3,918,9241,1,10,10,8,8,7,3,Excellent,No
+Master,High,1,1082,2974,9,9,5,3,1,2,2,Excellent,No
+Master,High,2,530,4502,3,17,13,7,6,7,2,Excellent,No
+Below College,Medium,3,1238,10748,3,25,23,15,14,4,3,Outstanding,No
+Below College,Low,1,240,1555,1,1,1,0,0,0,2,Excellent,Yes
+Bachelor,Low,4,1093,12936,7,25,23,5,14,10,3,Excellent,Yes
+Master,Low,1,390,2305,1,3,3,2,0,2,3,Excellent,No
+College,Medium,4,1005,16704,1,21,21,6,8,6,2,Excellent,No
+Bachelor,High,1,585,3433,6,10,5,2,1,3,3,Excellent,No
+Master,High,1,741,3477,1,6,5,2,0,3,2,Excellent,No
+Bachelor,Low,2,552,6430,6,10,3,2,1,2,4,Excellent,No
+College,High,2,369,6516,2,18,1,0,0,0,3,Excellent,No
+Below College,High,1,506,3907,1,6,6,2,1,2,2,Excellent,No
+Master,High,2,717,5562,6,19,10,7,0,9,3,Excellent,No
+Master,High,2,1370,6883,2,17,7,7,0,7,3,Excellent,No
+Below College,High,1,793,2862,1,10,10,0,0,8,2,Excellent,No
+Master,High,2,543,4978,7,4,1,0,0,0,3,Excellent,No
+Bachelor,High,3,1277,10368,4,13,10,6,0,3,5,Excellent,No
+Doctor,Medium,2,1456,6134,5,16,2,2,2,2,3,Excellent,Yes
+College,Low,2,964,6735,6,10,0,0,0,0,2,Excellent,Yes
+Below College,High,1,160,3295,1,3,3,2,1,2,3,Excellent,No
+Below College,High,2,163,5238,2,9,5,4,1,4,3,Outstanding,No
+Bachelor,High,2,792,6472,1,9,9,8,5,8,2,Excellent,No
+Bachelor,Low,3,371,9610,3,10,4,3,0,2,2,Excellent,No
+Master,High,5,611,19833,1,21,21,8,12,8,3,Excellent,No
+Bachelor,Low,3,176,9756,4,9,5,0,0,3,2,Outstanding,No
+Master,Medium,1,1312,4968,0,10,9,7,0,7,2,Excellent,No
+Bachelor,High,1,897,2145,0,3,2,2,2,1,2,Excellent,No
+Bachelor,Medium,1,600,2180,6,6,4,2,1,2,0,Excellent,Yes
+Bachelor,High,2,1003,8346,1,6,5,2,0,2,3,Excellent,No
+Bachelor,High,1,1054,3445,1,6,6,2,1,4,5,Excellent,No
+Bachelor,Low,1,428,2760,1,2,2,2,2,2,3,Excellent,Yes
+Bachelor,Very High,2,461,6294,8,10,3,2,0,2,5,Excellent,No
+College,Medium,3,979,7140,2,12,7,7,1,7,2,Excellent,No
+Master,Very High,1,181,2932,0,6,5,0,1,2,3,Excellent,No
+Bachelor,High,2,1283,5147,8,13,11,7,1,7,2,Excellent,No
+Master,High,2,1313,4507,3,8,5,1,0,4,1,Excellent,No
+Bachelor,High,3,211,8564,2,11,0,0,0,0,2,Outstanding,Yes
+College,Medium,1,594,2468,4,9,6,1,0,5,4,Excellent,No
+Master,High,3,1079,8161,2,10,1,0,0,0,2,Excellent,Yes
+Bachelor,Medium,1,590,2109,1,1,1,0,0,0,2,Excellent,No
+Bachelor,Very High,2,305,5294,3,10,7,0,1,7,3,Excellent,No
+Master,High,1,953,2718,2,12,7,7,0,7,3,Excellent,No
+Bachelor,Low,2,833,5811,3,15,1,0,1,0,2,Excellent,No
+Bachelor,Medium,1,807,2437,9,6,1,0,0,0,4,Excellent,Yes
+Bachelor,High,1,855,2766,8,7,5,3,0,4,6,Outstanding,No
+Bachelor,Medium,5,478,19038,8,34,1,0,0,0,2,Excellent,No
+Bachelor,High,2,775,3055,5,11,9,8,1,7,2,Excellent,No
+Master,High,1,548,2289,1,5,5,3,0,4,2,Outstanding,No
+Bachelor,High,2,1375,4001,1,15,15,14,0,7,3,Excellent,No
+Master,Medium,4,661,12965,4,27,3,2,0,2,2,Outstanding,No
+Bachelor,High,1,244,3539,0,10,9,7,1,8,5,Excellent,No
+College,Low,2,511,6029,5,6,2,2,2,2,3,Excellent,No
+Below College,High,1,337,2679,1,1,1,0,1,0,3,Excellent,Yes
+College,Medium,1,1153,3702,1,5,5,4,0,4,3,Excellent,No
+Below College,High,1,1294,2398,1,1,1,0,0,0,6,Excellent,Yes
+Master,Medium,2,196,5468,1,13,12,7,5,7,3,Excellent,No
+Bachelor,High,3,942,13116,2,15,2,2,2,2,2,Excellent,No
+College,Medium,2,589,4189,1,5,5,2,0,3,2,Excellent,No
+Master,High,5,734,19328,7,24,2,1,2,2,3,Excellent,No
+Bachelor,High,3,1383,8321,7,15,12,8,5,7,1,Excellent,No
+College,High,1,429,2342,1,6,5,3,2,3,2,Excellent,Yes
+College,High,2,1239,4071,2,19,10,0,4,7,4,Excellent,No
+Bachelor,High,2,303,5813,1,10,10,7,7,7,2,Excellent,Yes
+Master,Very High,1,867,3143,6,14,10,8,7,6,1,Excellent,No
+Bachelor,High,1,1181,2044,1,5,5,3,0,3,6,Excellent,No
+Below College,High,3,1253,13464,7,9,4,3,2,2,3,Outstanding,No
+College,Medium,2,849,7991,8,6,2,2,2,2,3,Excellent,No
+College,High,1,616,3377,4,7,4,3,0,2,5,Excellent,No
+Bachelor,Very High,2,1128,5538,5,10,0,0,0,0,2,Excellent,No
+College,High,2,1180,5762,2,15,7,7,1,7,6,Excellent,No
+Bachelor,High,1,1336,2592,5,13,11,10,3,8,3,Excellent,No
+Master,High,2,234,5346,4,11,7,1,0,7,3,Excellent,Yes
+Master,High,2,370,4213,1,10,10,3,0,8,4,Excellent,Yes
+Bachelor,High,2,766,4127,2,7,2,1,2,2,6,Excellent,No
+Bachelor,High,1,343,2438,4,7,3,2,1,2,2,Excellent,No
+Bachelor,Very High,2,447,6870,3,11,3,2,1,2,3,Excellent,No
+Below College,High,3,796,10447,0,23,22,14,13,5,3,Excellent,No
+Bachelor,High,3,1092,9667,9,9,7,7,0,2,3,Excellent,No
+College,High,1,920,2148,0,6,5,1,1,4,3,Excellent,Yes
+College,High,2,261,8926,4,13,9,7,3,7,2,Outstanding,Yes
+Bachelor,High,2,1194,6513,4,12,5,3,0,3,3,Excellent,No
+College,Very High,2,810,6799,1,10,10,8,4,8,5,Outstanding,No
+Bachelor,High,4,350,16291,4,37,16,9,14,14,0,Outstanding,No
+Master,Low,1,185,2705,0,6,5,4,0,3,2,Excellent,No
+Bachelor,Medium,3,1001,10333,8,28,22,11,14,10,4,Excellent,No
+Bachelor,High,2,750,4448,2,15,7,4,7,7,3,Excellent,No
+Master,High,2,431,6854,4,14,7,1,1,7,2,Excellent,No
+Master,High,3,1125,9637,2,9,3,2,2,2,3,Excellent,No
+Bachelor,High,1,1217,3591,1,3,3,2,1,2,3,Outstanding,No
+Master,Low,2,723,5405,2,20,4,2,0,3,4,Outstanding,No
+Bachelor,High,2,572,4684,1,5,5,3,1,2,4,Excellent,No
+Master,High,4,1216,15787,2,23,2,2,2,2,3,Excellent,No
+Bachelor,High,1,1431,1514,1,0,0,0,0,0,4,Excellent,No
+Doctor,Very High,1,359,2956,0,2,1,0,0,0,4,Excellent,Yes
+Bachelor,Medium,1,350,2335,4,4,2,2,2,0,3,Excellent,Yes
+Master,High,2,589,5154,4,10,8,7,5,7,3,Outstanding,No
+Master,High,2,430,6962,4,15,1,0,0,0,2,Outstanding,No
+Master,High,2,1422,5675,1,7,7,7,7,7,5,Outstanding,No
+College,High,1,1297,2379,0,6,5,4,0,2,3,Excellent,No
+Below College,High,1,574,3812,1,11,11,8,3,10,3,Excellent,No
+Master,High,2,1318,4648,8,4,0,0,0,0,2,Excellent,No
+Master,High,1,355,2936,3,10,6,3,3,3,1,Outstanding,No
+Master,High,1,207,2105,4,7,2,2,2,0,2,Excellent,No
+College,High,3,706,8578,3,12,9,8,4,7,4,Excellent,No
+College,High,1,280,2706,1,3,3,2,2,2,2,Excellent,No
+Below College,Low,2,726,6384,8,11,7,0,1,6,3,Excellent,No
+Bachelor,High,1,1142,3968,4,8,0,0,0,0,3,Excellent,No
+Master,Medium,2,414,9907,7,7,2,2,2,2,3,Excellent,Yes
+Bachelor,Very High,4,1319,13225,2,25,19,17,2,8,5,Excellent,No
+Below College,Medium,2,728,3540,1,9,9,8,5,8,5,Outstanding,No
+Below College,Medium,1,352,2804,1,1,1,0,0,0,3,Excellent,No
+Bachelor,Medium,5,823,19392,7,21,16,12,6,14,2,Excellent,No
+Bachelor,Medium,5,1224,19665,4,29,22,10,12,9,3,Excellent,No
+College,Medium,1,459,2439,1,1,1,0,1,0,3,Outstanding,Yes
+Bachelor,High,3,1254,7314,5,14,8,7,0,7,2,Outstanding,Yes
+Bachelor,Medium,1,1131,4774,0,8,7,6,7,3,2,Excellent,No
+Master,High,2,835,3902,8,7,2,2,2,2,2,Excellent,No
+Master,Medium,1,836,2662,8,19,5,2,0,4,2,Outstanding,No
+Bachelor,High,1,1172,2856,1,1,1,0,0,0,3,Excellent,No
+Bachelor,High,1,945,1081,1,1,1,0,0,0,3,Excellent,Yes
+Below College,High,1,391,2472,1,1,1,0,0,0,2,Outstanding,Yes
+Master,Medium,2,1266,5673,1,10,10,9,1,7,4,Excellent,No
+Bachelor,High,2,311,4197,1,10,10,8,0,2,2,Excellent,No
+Bachelor,High,3,1480,9713,2,9,5,3,1,0,3,Excellent,No
+Bachelor,High,1,592,2062,3,11,3,2,1,2,2,Excellent,No
+Master,High,2,783,4284,5,16,5,3,0,4,2,Outstanding,No
+College,Medium,2,219,4788,0,4,3,2,0,2,2,Excellent,No
+College,Medium,2,556,5906,0,10,9,8,3,8,2,Excellent,No
+Below College,Medium,2,1213,3886,1,10,10,1,0,8,2,Outstanding,No
+Master,High,4,1137,16823,2,22,19,7,11,16,3,Excellent,No
+College,Medium,1,482,2933,1,1,1,0,1,0,3,Excellent,No
+College,Very High,2,511,6500,0,9,8,7,0,7,5,Excellent,No
+Bachelor,High,4,117,17174,3,24,22,17,4,7,3,Excellent,No
+Master,Very High,2,170,5033,2,10,2,0,2,2,5,Excellent,No
+Master,Low,1,967,2307,1,5,5,2,3,0,2,Outstanding,Yes
+College,High,1,1162,2587,1,5,4,2,1,0,3,Excellent,Yes
+College,Medium,2,335,5507,2,12,4,2,1,3,1,Excellent,No
+Bachelor,High,2,337,4393,5,14,5,4,1,4,3,Outstanding,No
+Bachelor,High,3,1396,13348,9,18,13,7,5,7,3,Excellent,No
+College,High,2,1079,6583,2,8,5,2,1,4,2,Excellent,No
+Below College,Medium,2,735,8103,3,9,4,2,0,1,3,Excellent,No
+Bachelor,Very High,1,471,3978,8,4,2,2,2,2,0,Excellent,No
+Bachelor,Very High,1,1096,2544,0,8,7,7,7,7,3,Excellent,No
+Master,High,2,1297,5399,4,12,4,2,0,3,3,Excellent,No
+Master,High,2,217,5487,1,10,10,4,0,9,2,Excellent,No
+College,Medium,2,783,6834,1,7,7,7,0,7,2,Excellent,No
+Bachelor,Very High,1,746,1091,1,1,1,0,0,0,3,Excellent,Yes
+Master,Low,2,1251,5736,6,10,3,2,1,2,1,Excellent,No
+Master,High,1,1354,2226,1,6,5,3,1,2,3,Excellent,No
+Master,Medium,2,735,5747,1,16,15,10,6,11,3,Excellent,No
+College,High,2,1475,9854,3,6,2,0,2,2,0,Excellent,Yes
+Master,High,2,1169,5467,8,16,8,7,1,7,4,Excellent,No
+Doctor,Medium,2,1443,5380,4,6,0,0,0,0,3,Excellent,No
+College,High,2,867,5151,1,10,10,0,7,9,3,Outstanding,No
+Bachelor,Medium,2,1394,2133,1,20,20,11,0,7,3,Excellent,No
+Bachelor,High,4,605,17875,4,29,1,0,0,0,2,Excellent,No
+College,Very High,1,238,2432,3,8,4,1,0,3,2,Excellent,Yes
+College,High,1,1206,4771,2,10,5,2,0,3,0,Excellent,No
+Below College,High,5,1064,19161,3,28,5,4,4,3,3,Excellent,No
+Master,High,2,419,5087,3,14,0,0,0,0,4,Excellent,No
+Bachelor,Medium,1,1337,2863,1,1,1,0,0,0,2,Excellent,Yes
+Master,High,2,682,5561,0,6,5,3,0,4,2,Excellent,No
+Bachelor,High,1,1103,2144,1,5,5,3,1,4,3,Excellent,No
+College,High,1,976,3065,1,4,4,2,2,3,3,Excellent,No
+Master,Very High,1,1351,2810,1,5,5,4,0,2,3,Outstanding,No
+Bachelor,High,3,937,9888,1,14,14,8,2,1,3,Outstanding,No
+Master,High,3,1239,8628,1,9,8,7,1,1,2,Excellent,No
+Bachelor,High,1,157,2867,0,8,7,7,7,6,6,Excellent,No
+Bachelor,High,2,136,5373,0,6,5,3,0,2,5,Excellent,No
+Master,High,2,1146,6667,5,9,5,1,1,2,6,Excellent,No
+Bachelor,Low,2,1125,5003,1,10,10,8,8,7,6,Outstanding,No
+Bachelor,Medium,1,1404,2367,5,6,4,1,0,3,2,Excellent,Yes
+Bachelor,Medium,1,1404,2858,4,20,1,0,0,0,3,Excellent,No
+Master,High,2,1224,5204,1,10,10,8,0,9,2,Excellent,No
+Bachelor,High,2,954,4105,1,7,7,7,0,7,5,Excellent,No
+Master,Medium,2,1373,9679,8,8,1,0,0,0,1,Outstanding,No
+Master,High,2,754,5617,1,10,10,7,0,8,4,Excellent,Yes
+Master,High,3,1168,10448,6,15,2,2,2,2,2,Excellent,Yes
+College,High,2,155,2897,3,9,4,3,2,3,6,Excellent,No
+College,High,2,1303,5968,1,9,9,7,2,8,2,Outstanding,No
+Bachelor,High,3,574,7510,1,10,10,9,0,9,1,Excellent,No
+Master,High,1,1444,2991,0,7,6,2,1,2,2,Excellent,No
+Master,Very High,5,189,19636,4,35,10,9,1,4,0,Excellent,No
+Below College,Low,1,1276,1129,1,1,1,0,0,0,4,Excellent,No
+Master,High,4,119,13341,0,21,20,8,11,10,3,Excellent,No
+College,Medium,2,335,4332,1,20,20,9,3,7,2,Excellent,No
+Bachelor,High,3,697,11031,4,13,11,7,4,8,2,Outstanding,No
+Bachelor,High,2,157,4440,6,9,5,2,1,4,3,Excellent,No
+College,Medium,2,771,4617,1,4,4,3,1,2,2,Excellent,No
+College,High,1,571,2647,1,5,5,2,1,4,6,Excellent,No
+Bachelor,High,2,692,6323,1,10,10,9,9,4,2,Excellent,No
+College,High,2,444,5677,3,15,11,8,5,10,4,Excellent,No
+Bachelor,High,1,309,2187,4,6,2,0,1,2,3,Excellent,No
+College,High,1,911,3748,1,12,12,8,1,7,6,Excellent,No
+Below College,High,1,977,3977,6,7,2,2,0,2,2,Excellent,No
+Bachelor,High,3,1180,8633,2,25,17,14,12,11,3,Outstanding,No
+College,Medium,1,1313,2008,1,1,1,1,0,0,2,Excellent,No
+Master,High,2,1321,4440,0,16,15,13,5,8,3,Excellent,No
+College,High,1,1154,3067,0,3,2,2,1,2,1,Excellent,No
+Master,Medium,2,508,5321,2,10,8,3,7,7,1,Excellent,No
+Master,High,2,557,5410,6,9,4,3,1,2,3,Excellent,No
+Bachelor,High,1,642,2782,3,12,5,3,1,0,3,Outstanding,No
+Below College,High,3,1162,11957,0,14,13,8,5,12,3,Excellent,No
+Master,High,1,1490,2660,7,5,2,2,2,2,3,Excellent,No
+College,High,1,581,3375,0,4,3,2,1,2,2,Excellent,No
+Master,High,2,1395,5098,1,10,10,7,0,8,5,Excellent,No
+College,High,2,501,4878,0,10,9,7,8,1,6,Excellent,No
+Master,Medium,1,267,2837,1,6,6,2,4,1,3,Excellent,No
+Master,High,1,543,2406,8,8,1,0,0,0,3,Excellent,No
+Master,Medium,1,234,2269,0,3,2,2,2,2,2,Excellent,No
+Below College,High,2,116,4108,7,18,7,7,1,7,2,Excellent,No
+Bachelor,Low,3,201,13206,3,20,18,16,1,11,3,Excellent,No
+Master,High,3,801,10422,1,14,14,10,5,7,3,Excellent,No
+Bachelor,Very High,3,161,13744,1,16,16,11,6,8,2,Outstanding,No
+College,High,2,1382,4907,0,6,5,3,0,4,3,Outstanding,No
+Master,High,1,585,3482,2,16,9,8,0,0,3,Excellent,No
+Bachelor,High,1,1037,2436,6,6,4,3,1,2,2,Excellent,No
+Below College,High,1,501,2380,1,2,2,2,1,2,6,Excellent,No
+Bachelor,High,5,105,19431,2,21,6,0,1,3,3,Excellent,No
+Bachelor,High,1,638,1790,1,1,1,0,1,0,3,Excellent,Yes
+Bachelor,Medium,3,557,7644,0,10,9,7,3,4,2,Excellent,No
+College,High,2,688,5131,7,18,4,2,0,2,3,Excellent,No
+Master,High,2,667,6306,1,13,13,12,1,9,2,Outstanding,No
+Master,High,1,1092,4787,9,4,2,2,2,2,3,Excellent,Yes
+Bachelor,High,5,300,18880,5,24,22,6,4,14,2,Excellent,No
+College,High,1,310,2339,8,14,10,9,9,8,4,Excellent,Yes
+Master,Medium,4,582,13570,0,21,20,7,0,10,3,Outstanding,No
+Bachelor,Medium,2,704,6712,1,8,8,7,1,7,2,Outstanding,No
+Master,Low,2,301,5406,1,15,15,12,11,11,4,Outstanding,No
+Bachelor,Medium,2,930,8938,2,14,5,4,0,4,5,Excellent,No
+Bachelor,High,1,529,2439,1,4,4,2,1,2,4,Excellent,No
+Master,High,3,1146,8837,1,9,9,0,1,7,2,Excellent,No
+College,High,2,345,5343,1,10,10,7,1,9,1,Excellent,No
+Master,High,2,878,6728,7,12,6,3,0,1,3,Excellent,Yes
+Master,Medium,2,1120,6652,4,8,6,3,0,0,2,Excellent,No
+Bachelor,High,2,374,4850,8,8,5,3,0,1,3,Excellent,No
+Master,Medium,1,1322,2809,2,8,2,2,2,2,2,Excellent,No
+Master,High,2,1199,5689,1,10,10,2,0,2,2,Excellent,No
+Master,High,1,1194,2001,2,20,5,3,0,2,2,Excellent,No
+Master,Low,1,287,2977,1,4,4,3,1,1,5,Excellent,No
+College,Medium,2,1378,4025,4,10,4,3,0,3,2,Excellent,No
+Master,Medium,1,468,3785,1,5,5,4,0,4,3,Excellent,No
+Bachelor,Medium,3,410,10854,4,20,3,2,2,0,3,Excellent,Yes
+Below College,Medium,4,722,12031,0,21,20,9,9,6,2,Excellent,No
+Bachelor,High,2,325,9936,0,10,9,4,1,7,2,Excellent,No
+Bachelor,Medium,1,1167,2966,0,5,4,2,0,0,2,Excellent,No
+College,Very High,2,884,2571,4,17,5,2,0,3,3,Excellent,No
+Below College,Medium,3,613,9991,4,9,7,7,1,7,5,Excellent,No
+Bachelor,Very High,2,155,6142,1,6,6,2,0,3,0,Outstanding,No
+Bachelor,Medium,2,1023,5390,2,17,9,6,0,8,3,Excellent,No
+Bachelor,Very High,2,628,4404,2,6,4,3,1,2,3,Excellent,No
